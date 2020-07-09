@@ -163,3 +163,7 @@ I used <a href="https://balsamiq.com/">Balsamiq</a> to build this project’s wi
 
 ## Deployment:
 
+Night Vale Community Radio was developed in GitPod, hosted by GitHub and using git.
+
+The following steps were followed to deploy Night Vale Community Radio through GitHub Pages:
+
