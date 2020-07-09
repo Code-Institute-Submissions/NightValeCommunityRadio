@@ -167,12 +167,13 @@ Night Vale Community Radio was developed in GitPod, hosted by GitHub and using g
 
 The following steps were followed to deploy Night Vale Community Radio through GitHub Pages:
 
-* Opened up <strong>GitHub</strong> in the browser.
-* Signed in using username and password.
-* Selected my <strong>repositories</strong>.
+* Loaded <strong>GitHub</strong> in Chrome web browser.
+* Signed into GitHub.
+* Clicked on my <strong>repositories</strong>.
 * Navigated to <strong>'mcalistm/NightValeCommunityRadio'</strong>.
-* In the top navigation clicked <strong>'settings'</strong>.
-* Scrolled down to the <strong>GitHub Pages</strong> area. 
+* Selected <strong>'settings'</strong>.
+* Navigated to the <strong>GitHub Pages</strong> area of the page. 
 * Selected <strong>'Master Branch'</strong> from the <strong>'Source'</strong> dropdown menu.
-* Clicked to confirm my selection.
+* Confirmed my selection.
 * Night Vale Community Radio is now live on GitHub Pages.
+
