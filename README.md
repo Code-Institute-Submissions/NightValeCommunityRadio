@@ -127,3 +127,6 @@ BEM Stands for block element modifier, and is a way of writing CSS/SASS code in 
 ##### Background:
 The background images I chose to use on the banner are sourced from royalty free websites, they showcase different types of ‘lifestyle’ shots on different holiday destinations. Arguably large images like the ones mentioned are great for encouraging sales and leads. I manually resize the images using a tool called Gimp, having accurately sized images reduces the load time of the website.
 
+### Wireframes 
+
+I used Balsamiq to build this project’s wireframe. You can view them here.
