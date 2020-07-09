@@ -147,5 +147,9 @@ I used <a href="https://balsamiq.com/">Balsamiq</a> to build this project’s wi
 * CSS
 
 ### Tools & Libraries:
+* Balsamiq
+* GitHub
+* Gitpod
+* Google Fonts
 
 
