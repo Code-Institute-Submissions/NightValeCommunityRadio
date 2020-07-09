@@ -55,3 +55,22 @@ The goal of this project is to help users access community information and commu
 * Provide information to the community about upcoming events.
 * Gather applications for internships.
 * Accurately display the weather.
+
+## User Requirements and Expectations:
+##### Requirements:
+* Navigate the site using the navbar.
+* Be provided with community information.
+* Be able to apply for internships.
+* Be able to access the weather.
+* Be able to contact the radio station.
+* Website is displayed appealingly.
+
+##### Expectations:
+* Can tap/click on navbar links to direct around the site
+* Community calendar is up to date
+* Weather forecast is up to date
+* Contact and application forms are functional
+* Navbar condenses to drop down menu in mobile/table view
+* Website is appealing and accurate
+
+
