@@ -182,3 +182,6 @@ The following steps were followed to deploy Night Vale Community Radio through G
 ## Closing Notes:
 
 ## Credits: 
+* Welcome to Night Vale
+* Simen
+* Code Institute Slack Community
