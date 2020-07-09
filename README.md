@@ -139,3 +139,12 @@ I used <a href="https://balsamiq.com/">Balsamiq</a> to build this project’s wi
 * Communication form
 * Link to instruct the user on how to add their event to the community calendar
 * Weather video
+
+## Technologies Used: 👨‍💻
+
+### Languages:
+
+
+### Tools & Libraries:
+
+
