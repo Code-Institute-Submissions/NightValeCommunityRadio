@@ -130,3 +130,12 @@ The background images I chose to use on the banner are sourced from royalty free
 ### Wireframes 
 
 I used <a href="https://balsamiq.com/">Balsamiq</a> to build this project’s wireframe. You can view them <a href="wireframes/wireframeNCVR.pdf">here.</a>
+
+## Features
+
+* Consistent header and footer
+* Community calendar
+* Internship application form
+* Comment form
+* Link to instruct the user on how to add their event to the community calendar
+* Weather video
