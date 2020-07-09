@@ -178,3 +178,5 @@ The following steps were followed to deploy Night Vale Community Radio through G
 * Night Vale Community Radio is now live on GitHub Pages.
 
 #### Running Night Vale Community Radio Locally: 
+
+## Closing Notes:
