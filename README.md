@@ -143,7 +143,8 @@ I used <a href="https://balsamiq.com/">Balsamiq</a> to build this project’s wi
 ## Technologies Used: 👨‍💻
 
 ### Languages:
-
+* HTML
+* CSS
 
 ### Tools & Libraries:
 
