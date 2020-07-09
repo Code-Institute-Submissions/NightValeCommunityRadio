@@ -1,122 +1,57 @@
 # Night Vale Community Radio Website
 
-Night Vale Community Radio is the radio station for the fictional desert town of Night Vale,
-created by Joseph Fink and Jeffrey Cranor in their podcast _Welcome to Night Vale_. The station
-is staffed by host Cecil Baldwin and a variety of interns, all of whom meet strange ends. While
-there are parts of Night Vale that seem mundane, it quickly becomes apparent that the town is
-comedically strange and dark - the daily weather is a song, the dog park is to be avoided at all costs, 
-and the Sheriff's Secret Police will leave a carnation on your front porch when it is safe to come outside. 
+!-- insert multi-device screenshot here --!
 
-The purpose of this project is to provide the citizens of Night Vale with a website for their beloved NVCR.
-It will provide them with the monthly community calendar, the daily weather, the citizen of the month, 
-and an opportunity to apply to intern at the radio station (applications are accepted on a rolling basis).
+Thank you for taking the time to come visit my project! I welcome any comments, questions, and suggestions, and can be reached with my GitHub contact details. Pleasant coding!
 
-## UX
- 
-### Navigation and Design 
-The site is designed so that the header is maintained throughout for ease of recognition and navigation. 
-Rather than one long scrolling page, it is set up in seperate pages because the user base is likely older, 
-and they may find this structure easier to navigate. The footer is similarly consistent, providing links to 
-the town's Instagram, podcast, TripAdvisor, Twitter, and RSS Feed for ease of connecting with the town
-on various platforms.
+## Contents:
 
-### User Stories
-* User 1: I am a citizen of Night Vale who wants to know what today's weather is before I go outside.
-* User 2: I am a citizen of Desert Bluffs who wants to know the best weekend to visit Night Vale.
-* User 3: I am a citizen of Night Vale who wants to know more about my community so I can feel more connected.
-* User 4: I am a citizen of Night Vale who wants to know more about my radio station, and potentially
-about working there.
-* User 5: I am a citizen of Night Vale who wants to add my event to the community calendar.
+* UX 
+    * Project Goals
+    * Target Audience Goals
+    * Site Owner Goals
+    * User Requirements and Expectations
+    * Design Choices 
+        * Fonts
+        * Icons
+        * Colours
+        * Styling
+        * Images
+        * Backgrounds
+* Wireframes 
+* Features 
+    * Features that have been developed
+    *  Features that will be implemented in the future
+* Technologies Used
+* Testing 
+* Bugs 
+* Deployment 
+* Credits 
 
-### Wireframes 
+Night Vale Community Radio is the radio station for the fictional desert town of Night Vale, created by Joseph Fink and Jeffrey Cranor in their podcast _Welcome to Night Vale_. The station is staffed by host Cecil Baldwin and a variety of interns, all of whom meet strange ends. While there are parts of Night Vale that seem mundane, it quickly becomes apparent that the town is comedically strange and dark - the daily weather is a song, the dog park is to be avoided at all costs, and the Sheriff's Secret Police will leave a carnation on your front porch when it is safe to come outside. 
 
-The wireframes will be linked in here.
+The purpose of this project is to provide the citizens of Night Vale with a website for their beloved NVCR. It will provide them with the monthly community calendar, the daily weather, the citizen of the month, and an opportunity to apply to intern at the radio station (applications are accepted on a rolling basis).
 
-## Features
+## UX (User Experience)
+### Project Goals
+The goal of this project is to help users access community information and communicate with their radio station. It is aimed at citizens of Night Vale. The finished site should be clean and intuitive enough to be easily accessible, while also being appealing to the eye.
 
-### Existing Features
-* Responsive design: This site is created with mobile-first design in mind,
-and is responsive.
-* Headers and footers maintain consistency sitewide.
-* Community calendar events can be accessed.
-* Under the community calendar is a link that says "Add my event!" Clicking this link
-will take the user to the contact page form, where they are prompted to request that
-their event be added.
-* Users can communicate with the radio station with the form in the contact us page.
-* Users can apply to work at the radio station with the form in the apply page
+#### User Goals:
+* A hub for community information that is easily accessible.
+* Easy communication with the radio station through a contact form.
+* Access to the day’s weather.
+* Ability to apply for an internship at the radio station.
+* Responsiveness to different devices.
 
-### Pages
-* Home Page
-* Community Calendar
-* Today's Weather
-* Citizen of the month
-* Apply to intern
-* Contact Us
+#### User Stories:
 
-### Features Left to Implement
-- Another feature idea
+##### User 1: As a user I expect to be able to check the weather before leaving my house.
+##### User 2: As a user I expect to know what the upcoming events in my community are.
+##### User 3: As a user I expect to be able to be able to apply to intern at the radio station.
+##### User 5: As a user I expect to be able to add my event to the community calendar.
+##### User 6: As a user I expect to be able to learn about other people in my community.
 
-### Features and Pages Not Used
-* I chose not to include the widely-used about us page, as there is 
-only one major staffer at NVCR, and the majority of users will be well-acquainted
-with him already. I was also concerned that it would make the site too cluttered.
-
-## Technologies Used
-
-### Languages and Frameworks
-* HTML5
-* CSS
-* Bootstrap
-
-### Tools 
-* Balsamiq
-* GitHub
-* Gitpod
-* Google Fonts
-
-## Testing
-
-In this section, you need to convince the assessor that you have conducted enough testing to legitimately believe that the site works well. Essentially, in this part you will want to go over all of your user stories from the UX section and ensure that they all work as intended, with the project providing an easy and straightforward way for the users to achieve their goals.
-
-Whenever it is feasible, prefer to automate your tests, and if you've done so, provide a brief explanation of your approach, link to the test file(s) and explain how to run them.
-
-For any scenarios that have not been automated, test the user stories manually and provide as much detail as is relevant. A particularly useful form for describing your testing process is via scenarios, such as:
-
-1. Contact form:
-    1. Go to the "Contact Us" page
-    2. Try to submit the empty form and verify that an error message about the required fields appears
-    3. Try to submit the form with an invalid email address and verify that a relevant error message appears
-    4. Try to submit the form with all inputs valid and verify that a success message appears.
-
-In addition, you should mention in this section how your project looks and works on different browsers and screen sizes.
-
-You should also mention in this section any interesting bugs or problems you discovered during your testing, even if you haven't addressed them yet.
-
-If this section grows too long, you may want to split it off into a separate file and link to it from here.
-
-## Deployment
-
-This section should describe the process you went through to deploy the project to a hosting platform (e.g. GitHub Pages or Heroku).
-
-In particular, you should provide all details of the differences between the deployed version and the development version, if any, including:
-- Different values for environment variables (Heroku Config Vars)?
-- Different configuration files?
-- Separate git branch?
-
-In addition, if it is not obvious, you should also describe how to run your code locally.
-
-
-## Credits
-
-### Content
-* The idea for this site came from the podcast _Welcome to Night Vale_ (http://www.welcometonightvale.com/) 
-* The text for section Y was copied from the [Wikipedia article Z](https://en.wikipedia.org/wiki/Z)
-
-### Media
-* All images used in this site were found through advanced searching Google Images, and are 
-fair use for the educational function of this project.
-
-### Acknowledgements
-
-* I would like to thank my mentor, Simen, and the Code Institute Slack Community for their ongoing
-support. 
+#### Site Owner Goals:
+* Provide information to the community about upcoming events.
+* Gather applications for internships.
+* Accurately display the weather.
