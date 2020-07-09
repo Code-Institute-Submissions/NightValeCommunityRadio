@@ -143,13 +143,12 @@ I used <a href="https://balsamiq.com/">Balsamiq</a> to build this project’s wi
 ## Technologies Used: 👨‍💻
 
 ### Languages:
-* HTML
-* CSS
+* <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">HTML</a>
+* <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">CSS</a>
 
 ### Tools & Libraries:
-* Balsamiq
-* GitHub
-* Gitpod
-* Google Fonts
+* <a href="https://getbootstrap.com/">Bootstrap</a>
+* <a href="https://git-scm.com/">Git</a>
+* <a href="https://fonts.google.com/">Google Fonts</a>
 
 
