@@ -129,4 +129,4 @@ The background images I chose to use on the banner are sourced from royalty free
 
 ### Wireframes 
 
-I used Balsamiq to build this project’s wireframe. You can view them here.
+I used <a href="https://balsamiq.com/">Balsamiq</a> to build this project’s wireframe. You can view them <a href="wireframes/wireframeNCVR.pdf">here.</a>
