@@ -182,6 +182,6 @@ The following steps were followed to deploy Night Vale Community Radio through G
 ## Closing Notes:
 
 ## Credits: 
-* Welcome to Night Vale
-* Simen
+* <a href="http://www.welcometonightvale.com">Welcome to Night Vale</a>
+* <a href="https://github.com/Eventyret">Simen Daehlin</a>
 * Code Institute Slack Community
