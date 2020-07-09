@@ -133,9 +133,9 @@ I used <a href="https://balsamiq.com/">Balsamiq</a> to build this project’s wi
 
 ## Features
 
-* Consistent header and footer
+* Site-wide consistent header and footer
 * Community calendar
 * Internship application form
-* Comment form
+* Communication form
 * Link to instruct the user on how to add their event to the community calendar
 * Weather video
