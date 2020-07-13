@@ -2,5 +2,16 @@
 
 header {
     margin: 0;
-    
+
+}
+
+.logo {
+    background: url("../images/nvcrlogo.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height: 100px;
+    transition: all .5s ease-in-out;
+    -moz-transition: all .5s ease-in-out;
+    -webkit-transition: all .5s ease-in-out;
 }
