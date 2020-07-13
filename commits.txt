@@ -28,3 +28,6 @@ Styled intern.html page form to require name, contact, and uploaded .pdf CV file
 Styled intern.html form and submit button
 Added links into README.md file
 Finalized READEME.md file
+
+websites consulted
+https://openclassrooms.com/en/courses/2479876-build-your-website-with-html5-and-css3/2490386-creating-links 
