@@ -3,11 +3,28 @@
 header {
     margin: 0;
     font-family: "Open-Sans", sans-serif;
-    font-color: #E0AAFF; 
+    color: #E0AAFF; 
 }
 
+.nav-color {
+    color: #E0AAFF;
+}
+
+.home-container{
+    max-width: 100%;
+    position: relative;
+    margin: 0;
+    padding: 0;
+}
+
+#home-image {
+    width: 100%;
+    height: auto;
+}
+
+
 body {
-    
+    margin-top: 5vw;
     font-family: "Open-Sans", sans-serif;
     color: #777777;
 }
