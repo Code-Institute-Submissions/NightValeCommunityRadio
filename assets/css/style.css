@@ -2,10 +2,12 @@
 
 header {
     margin: 0;
-
+    font-family: "Open-Sans", sans-serif;
+    font-color: #E0AAFF; 
 }
 
 body {
+    
     font-family: "Open-Sans", sans-serif;
     color: #777777;
 }
@@ -16,3 +18,4 @@ body {
     justify-content: center;
     align-items: flex-end;
 }
+
