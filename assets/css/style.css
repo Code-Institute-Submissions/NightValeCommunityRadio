@@ -10,3 +10,9 @@ body {
     color: #777777;
 }
 
+#footer {
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content: center;
+    align-items: flex-end;
+}
