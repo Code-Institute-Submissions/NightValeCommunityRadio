@@ -24,7 +24,7 @@ body {
 /*-------------------------------------------------Home*/
 
 .main {
-    margin-top: 90px;
+    margin-top: 0px;
 }
 
 .jumbotron {
@@ -33,11 +33,16 @@ body {
 
 .jumbotron-container {
     background: url("../images/marfa.jpg") no-repeat center center fixed;
-    height: 70vh;
+    height: 100vh;
     background-size: cover;
-    
 }
 
+.jumbotron-text {
+    font-family: "Oswald", sans-serif;
+    color: #E0AAFF;
+    padding-top: 250px;
+    text-shadow: -1px 0 #5a189a, 0 1px #5a189a, 1px 0 #5a189a, 0 -1px #5a189a;
+}
 
 /*-------------------------------------------------Calendar*/
 
@@ -49,6 +54,10 @@ body {
     padding-bottom: 70px;
     text-align: center;
     background-color: #9d4edd;
+}
+
+.btn-contact {
+    background-color: #E0AAFF;
 }
 
 /*-------------------------------------------------Weather*/
