@@ -14,7 +14,7 @@ header {
 
 body {
     font-family: "Open-Sans", sans-serif;
-    color: #777777;
+    color: #E0AAFF;
 }
 
 /*-------------------------------------------------Home*/
@@ -60,7 +60,7 @@ body {
     max-width: 100vw;
     position: relative;
     margin: 0;
-    padding: 0;
+    padding-top: 10px;
     text-align: center;
     background-color: #c77dff;
 }
@@ -71,7 +71,7 @@ body {
     max-width: 100vw;
     position: relative;
     margin: 0;
-    padding: 0;
+    padding-top: 10px;
     text-align: center;
     background-color: #9d4edd;
 }
@@ -82,7 +82,7 @@ body {
     max-width: 100vw;
     position: relative;
     margin: 0;
-    padding: 0;
+    padding-top: 10px;
     text-align: center;
     background-color: #7b2cbf;
 }
@@ -93,7 +93,7 @@ body {
     max-width: 100vw;
     position: relative;
     margin: 0;
-    padding: 0;
+    padding-top: 10px;
     text-align: center;
     background-color: #5a189a;
 }
@@ -104,7 +104,7 @@ body {
     max-width: 100vw;
     position: relative;
     margin: 0;
-    padding: 0;
+    padding-top: 10px;
     text-align: center;
     background-color: #3c096c;
 }
