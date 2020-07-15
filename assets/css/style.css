@@ -23,39 +23,21 @@ body {
 
 /*-------------------------------------------------Home*/
 
-.home-container{
-    max-width: 100vw;
-    position: relative;
-    margin: 0;
-    padding: 0;
-    text-align: center;
-    color: #E0AAFF;
+.main {
+    margin-top: 90px;
 }
 
-.centered {
-  position: absolute;
-  top: 50%;
-  left: 50%;
-  transform: translate(-50%, -50%);
+.jumbotron {
+    background-color: transparent; 
 }
 
-.home-text-container{
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    color: #E0AAFF;
-    background-color: #3C096C;
-    font-family: "Oswald", sans-serif;
-    font-weight: 300;
-    text-align: center;
-    padding: 10px 600px;
-    opacity: 0.6;
+.jumbotron-container {
+    background: url("../images/marfa.jpg") no-repeat center center fixed;
+    height: 70vh;
+    background-size: cover;
+    
 }
 
-#home-image {
-    width: 100%;
-    height: auto;
-}
 
 /*-------------------------------------------------Calendar*/
 
@@ -68,8 +50,6 @@ body {
     text-align: center;
     background-color: #9d4edd;
 }
-
-
 
 /*-------------------------------------------------Weather*/
 
