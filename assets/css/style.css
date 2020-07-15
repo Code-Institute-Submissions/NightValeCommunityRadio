@@ -1,19 +1,19 @@
-@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300&family=Playfair+Display:ital,wght@0,400&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@300;400&family=Raleway:wght@300&display=swap');
 
 /*-------------------------------------------------Header*/
 header {
     margin: 0;
-    font-family: "Open-Sans", sans-serif;
+    font-family: "Oswald", sans-serif;
     color: #E0AAFF; 
 }
 
 .nav-color {
-    color: #E0AAFF;
+    color: #E0AAFF
 }
 /*-------------------------------------------------Body*/
 
 body {
-    font-family: "Open-Sans", sans-serif;
+    font-family: "Oswald", sans-serif;
     color: #E0AAFF;
 }
 
@@ -41,7 +41,7 @@ body {
     left: 50%;
     color: #E0AAFF;
     background-color: #3C096C;
-    font-family: "Open-Sans", sans-serif;
+    font-family: "Oswald", sans-serif;
     font-weight: 300;
     text-align: center;
     padding: 10px 10px 10px 10px;
@@ -116,5 +116,6 @@ body {
     flex-direction: row-reverse;
     justify-content: center;
     align-items: flex-end;
+    background-color: #10002b;
 }
 
