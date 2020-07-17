@@ -53,10 +53,6 @@ header {
     text-align: center;
 }
 
-.calendar-color{
-    background-color: #9d4edd;
-}
-
 .btn-contact {
     background-color: #E0AAFF;
 }
@@ -70,6 +66,12 @@ header {
     padding-top: 10px;
 }
 
+/*Colors*/
+
+.calendar-color{
+    background-color: #9d4edd;
+}
+
 .weather-color{
     background-color: #7b2cbf;
 }
@@ -79,7 +81,6 @@ header {
 }
 
 .apply-color{
-    
     background-color: #3c096c;
 }
 
