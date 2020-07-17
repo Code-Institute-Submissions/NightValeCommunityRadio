@@ -1,10 +1,14 @@
 @import url('https://fonts.googleapis.com/css2?family=Oswald:wght@300;400&family=Raleway:wght@300&display=swap');
 
+body {
+    font-family: "Oswald", sans-serif;
+    color: #E0AAFF;
+}
 .raleway-text {
     font-family: Raleway, serif;
 }
 
-/*-------------------------------------------------Header*/
+/*Header*/
 header {
     margin: 0;
     font-family: "Oswald", sans-serif;
@@ -14,14 +18,8 @@ header {
 .nav-color {
     color: #E0AAFF
 }
-/*-------------------------------------------------Body*/
 
-body {
-    font-family: "Oswald", sans-serif;
-    color: #E0AAFF;
-}
-
-/*-------------------------------------------------Home*/
+/*Home*/
 
 .main {
     margin-top: 0px;
@@ -44,15 +42,18 @@ body {
     text-shadow: -1px 0 #5a189a, 0 1px #5a189a, 1px 0 #5a189a, 0 -1px #5a189a;
 }
 
-/*-------------------------------------------------Calendar*/
+/*Sections*/
 
-.calendar-container{
+.section-container {
     max-width: 100vw;
     position: relative;
     margin: 0;
     padding-top: 70px;
     padding-bottom: 70px;
     text-align: center;
+}
+
+.calendar-color{
     background-color: #9d4edd;
 }
 
@@ -69,55 +70,24 @@ body {
     padding-top: 10px;
 }
 
-/*-------------------------------------------------Weather*/
-
-.weather-container{
-    max-width: 100vw;
-    position: relative;
-    margin: 0;
-    padding-top: 70px;
-    padding-bottom: 70px;
-    text-align: center;
+.weather-color{
     background-color: #7b2cbf;
 }
 
-/*-------------------------------------------------About Us*/
-
-.about-container{
-    max-width: 100vw;
-    position: relative;
-    margin: 0;
-    padding-top: 70px;
-    padding-bottom: 70px;
-    text-align: center;
+.about-color{
     background-color: #5a189a;
 }
 
-/*-------------------------------------------------Apply*/
-
-.apply-container{
-    max-width: 100vw;
-    position: relative;
-    margin: 0;
-    padding-top: 70px;
-    padding-bottom: 70px;
-    text-align: center;
+.apply-color{
+    
     background-color: #3c096c;
 }
 
-/*-------------------------------------------------Contact Us*/
-
-.contact-container{
-    max-width: 100vw;
-    position: relative;
-    margin: 0;
-    padding-top: 70px;
-    padding-bottom: 70px;
-    text-align: center;
+.contact-color{
     background-color: #240046;
 }
 
-/*-------------------------------------------------Footer*/g
+/*Footer*/
 
 #footer {
     display: flex;
