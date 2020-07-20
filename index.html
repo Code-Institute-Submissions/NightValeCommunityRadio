@@ -44,7 +44,7 @@
                 <h1 class="calendar-text">Community Calendar</h1>
                 <h2 class="calendar-month-text">October 2020</h2>
             </div>
-            <div class="row d-none d-sm-block apply-color date-row">
+            <div class="row date-row d-none d-sm-block apply-color"> !--I added date-row to try to fix this but I'm having trouble cracking it.--!
                 <div class="col-sm-1">Date</div>
                 <div class="col-sm-1">Time</div>
                 <div class="col-sm-5">Event</div>
@@ -99,7 +99,9 @@
         </section>
         <section id="weather" class="container-fluid weather-color section-container">
             <h4>Today's Weather</h4>
-            <h2><iframe width="560" height="315" src="https://www.youtube.com/embed/NaUCDqWzy1k?start=14" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></h2>
+            <div class="embed-responsive embed-responsive-16by9">
+                <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/ldWSMhu4CA4" allowfullscreen></iframe>
+            </div>
         </section>
         <section id="about" class="container-fluid about-color section-container">
             <h4>About Us</h4>

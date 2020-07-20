@@ -67,7 +67,7 @@ header {
 
 .calendar-header {
     padding-top: 1rem;
-    padding-bottom: 30rem;
+    padding-bottom: 1rem;
 }
 
 .calendar-text {
@@ -75,6 +75,10 @@ header {
 
 .calendar-month-text{
     font-family: "Raleway", serif;
+}
+
+.date-row {
+    flex-wrap: nowrap;
 }
 
 /*Colors*/
