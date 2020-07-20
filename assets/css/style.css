@@ -71,10 +71,12 @@ header {
 }
 
 .calendar-text {
+    font-size: 8rem;
 }
 
 .calendar-month-text{
     font-family: "Raleway", serif;
+    font-size: 5rem;
 }
 
 .date-row {
