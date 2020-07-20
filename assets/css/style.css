@@ -65,13 +65,16 @@ header {
     background-color: #E0AAFF;
 }
 
+.calendar-header {
+    padding-top: 1rem;
+    padding-bottom: 30rem;
+}
+
 .calendar-text {
-    padding-bottom: 3rem;
 }
 
 .calendar-month-text{
     font-family: "Raleway", serif;
-    padding-top: 1rem;
 }
 
 /*Colors*/
