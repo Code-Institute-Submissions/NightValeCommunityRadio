@@ -20,6 +20,11 @@ header {
     color: #E0AAFF; 
 }
 
+.row {
+    margin: 0;
+    padding: 0;
+}
+
 /*Home*/
 
 .main {
