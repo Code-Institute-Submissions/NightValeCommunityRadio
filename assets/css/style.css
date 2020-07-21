@@ -89,9 +89,14 @@ header {
     font-size: 8rem;
 }
 
-.calendar-month-text{
+.calendar-month-text {
     font-family: "Raleway", serif;
     font-size: 5rem;
+}
+
+.calendar-contact-text {
+    font-family: "Raleway", serif;
+    font-size: 3rem;
 }
 
 .date-row {
