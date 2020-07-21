@@ -65,7 +65,7 @@ header {
     background-color: #E0AAFF;
 }
 
-.calendar-header {
+.section-header {
     padding-top: 1rem;
     padding-bottom: 1rem;
 }
@@ -81,6 +81,10 @@ header {
 
 .date-row {
     flex-wrap: nowrap;
+}
+
+.about-header {
+
 }
 
 /*Colors*/
