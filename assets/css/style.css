@@ -50,6 +50,17 @@ header {
 
 /*Sections*/
 
+.weather-container {
+    max-width: 100vw;
+    position: relative;
+    margin: 0;
+    padding-top: 7rem;
+    padding-bottom: 0rem;
+    padding-left: 0;
+    padding-right: 0;
+    text-align: center;
+}
+
 .section-container {
     max-width: 100vw;
     position: relative;
