@@ -25,6 +25,10 @@ header {
     padding: 0;
 }
 
+.nav-text {
+    font-size: 3rem;
+}
+
 /*Home*/
 
 .main {
