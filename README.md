@@ -183,5 +183,6 @@ The following steps were followed to deploy Night Vale Community Radio through G
 
 ## Credits: 
 * <a href="http://www.welcometonightvale.com">Welcome to Night Vale</a>
+* <a href="https://nightvale.fandom.com/wiki/Cecil_Gershwin_Palmer">Night Vale Fanwiki - text for About Us section</a>
 * <a href="https://github.com/Eventyret">Simen Daehlin</a>
 * Code Institute Slack Community
