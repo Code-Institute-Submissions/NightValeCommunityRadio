@@ -103,6 +103,18 @@ header {
     flex-wrap: nowrap;
 }
 
+.about-us-cecil {
+    justify-content: space-between;
+}
+
+.cecil-image {
+    flex-flow: flex-start;
+}
+
+.about-text {
+    flex-flow: flex-end;
+}
+
 /*Colors*/
 
 .calendar-color{
