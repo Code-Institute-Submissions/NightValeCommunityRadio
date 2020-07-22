@@ -158,9 +158,16 @@ header {
 
 #footer {
     display: flex;
+    justify-content: space-between;
     flex-direction: row-reverse;
-    justify-content: center;
-    align-items: flex-end;
-    background-color: #10002b;
+    align-items: center;
+    align-content: space-around;
+    background-color: #3c096c;
+    height: 3.5rem;
+}
+
+#footer a {
+    padding-left: 10%;
+    padding-right: 10%;
 }
 
