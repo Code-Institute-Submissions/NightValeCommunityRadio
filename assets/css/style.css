@@ -99,6 +99,10 @@ header {
     font-size: 3rem;
 }
 
+.contact-button {
+    font-size: 2rem;
+}
+
 .date-row {
     flex-wrap: nowrap;
 }
