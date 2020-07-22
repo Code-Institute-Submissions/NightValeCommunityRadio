@@ -113,14 +113,14 @@ header {
 }
 
 .carousel-item {
-  height: 50rem;
+  height: 40rem;
 }
 
 .carousel-item iframe {
     position: absolute;
     top: 0;
     left: 0;
-    min-height: 50rem;
+    min-height: 40rem;
 }
 
 .about-us-cecil {
