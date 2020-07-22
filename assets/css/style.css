@@ -103,6 +103,11 @@ header {
     font-size: 2rem;
 }
 
+.contact-form {
+    padding-bottom: 3.5rem;
+    
+}
+
 .date-row {
     flex-wrap: nowrap;
 }
