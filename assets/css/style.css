@@ -117,6 +117,14 @@ header {
     flex-flow: flex-end;
 }
 
+.attach-cv {
+    display: block;
+    margin-left: 25%;
+    margin-right:25%;
+    width: 50%;
+    text-align: left;
+}
+
 .form-name {
     padding-bottom: 3.5rem;
 }
