@@ -121,6 +121,10 @@ header {
     padding-bottom: 2rem;
 }
 
+.checkbox-label {
+    padding-left: 1rem;
+}
+
 /*Colors*/
 
 .link-color {
