@@ -163,61 +163,59 @@
                 as well as updates from his surviving interns out in the field.
                 He is currently married to Carlos the Scientist.</div>
     <!-- End of About Us Section -->
-        <section id="apply" class="container-fluid apply-color section-container">
-            <div class="section-header">
-                <p class="calendar-text">Apply to Intern!</p>
-                <p class="calendar-month-text"><a href="#" target="_blank">Common Questions</a> | <a href="#" target="_blank">HIPPA Exclusion Information</a></p>
-                <p class="calendar-month-text"><a href="#" target="_blank">Job Spec</a></p>
+        <div id="apply" class="row">
+            <div class="col-12">Apply to Intern!</div>
+            <div class="col-12"><a href="#" target="_blank">Common Questions</a> | <a href="#" 
+            target="_blank">HIPPA Exclusion Information</a></div>
+            <div class="col-12"><a href="#" target="_blank">Job Spec</a></div>
+        </div>
+        <form>
+            <div class="row">
+                <div class="col-md-4">
+                    <input type="text" class="form-control form-control-lg contact-button" placeholder="First name" required>
+                </div>
+                <div class="col-md-4">
+                    <input type="text" class="form-control form-control-lg contact-button" placeholder="Last name" required>
+                </div>
+                <div class="col-md-4">
+                    <input type="email" class="form-control form-control-lg contact-button" placeholder="Email address" required>
+                </div>
             </div>
-            <form>
-                <div class="row form-name">
-                    <div class="col-md-4">
-                        <input type="text" class="form-control form-control-lg contact-button" placeholder="First name" required>
-                    </div>
-                    <div class="col-md-4">
-                        <input type="text" class="form-control form-control-lg contact-button" placeholder="Last name" required>
-                    </div>
-                    <div class="col-md-4">
-                        <input type="email" class="form-control form-control-lg contact-button" placeholder="Email address" required>
-                    </div>
-                </div>
-                <div class="form-group form-inline center attach-cv">
-                    <label for="exampleFormControlFile1" class="calendar-contact-text">Attach CV:</label>
-                    <input type="file" class="form-control-file d-flex justify-content-center align-items-center container calendar-contact-text" id="exampleFormControlFile1" required>
-                </div>
-                <div class="form-check form-class">
-                    <input class="form-check-input" type="checkbox" value="" id="defaultCheck1" required>
-                    <label class="form-check-label contact-button checkbox-label" for="defaultCheck1">I have read the HIPPA Exclusion Information form provided to me and wish to continue.</label>
-                </div>
-                <button type="submit" class="btn btn-contact btn-lg contact-button">Submit Application!</button>
-            </form>
-        </section>
-        <section id="contact" class="container-fluid contact-color section-container">
-            <div class="section-header">
-                <p class="calendar-text">Contact Us</p>
-                <p class="calendar-month-text">Night Vale Community Radio</p>
+            <div class="form-group">
+                <label for="exampleFormControlFile1" class="calendar-contact-text">Attach CV:</label>
+                <input type="file" class="form-control-file d-flex justify-content-center align-items-center container calendar-contact-text" id="exampleFormControlFile1" required>
             </div>
-            <form>
-                <div class="row form-name">
-                    <div class="col-md-4">
-                        <input type="text" class="form-control form-control-lg contact-button" placeholder="First name" required>
-                    </div>
-                    <div class="col-md-4">
-                        <input type="text" class="form-control form-control-lg contact-button" placeholder="Last name" required>
-                    </div>
-                    <div class="col-md-4">
-                        <input type="email" class="form-control form-control-lg contact-button" placeholder="Email address" required>
-                    </div>
+            <div class="form-check">
+                <input class="form-check-input" type="checkbox" value="" id="defaultCheck1" required>
+                <label class="form-check-label contact-button checkbox-label" for="defaultCheck1">I have read the HIPPA Exclusion Information form provided to me and wish to continue.</label>
+            </div>
+            <button type="submit" class="btn btn-contact">Submit Application!</button>
+        </form>
+    <!-- End of Apply Section -->
+        <div id="apply" class="row">
+            <div class="col-12">Contact Us</div>
+            <div class="col-12">Ring us 24/7 at 555-6827 or fill out the form below:</div>
+        </div>
+        <form>
+            <div class="row">
+                <div class="col-sm-12 col-md-4">
+                    <input type="text" class="form-control form-control-lg" placeholder="First name" required>
                 </div>
-                <div class="d-flex justify-content-center align-items-center container">
-                    <div class="contact-form">
-                        <label for="exampleFormControlTextarea1"></label>
-                        <textarea class="form-control form-control-lg contact-button" id="exampleFormControlTextarea1" rows="4" placeholder="Questions? Comments? Want us to add your event to the community calendar? Let us know!"></textarea>
-                    </div>
+                <div class="col-sm-12 col-md-4">
+                    <input type="text" class="form-control form-control-lg" placeholder="Last name" required>
                 </div>
-                <button type="submit" class="btn btn-contact btn-lg contact-button">Contact us!</button>
-            </form>
-        </section>
+                <div class="col-sm-12 col-md-4">
+                    <input type="email" class="form-control form-control-lg" placeholder="Email address" required>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-sm-12 col-md-4 contact-form">
+                    <label for="exampleFormControlTextarea1"></label>
+                    <textarea class="form-control form-control-lg" id="exampleFormControlTextarea1" rows="4" placeholder="Questions? Comments? Want us to add your event to the community calendar? Let us know!"></textarea>
+                </div>
+            </div>
+            <button type="submit" class="btn btn-contact btn-lg">Contact us!</button>
+        </form>
     </main>
     <footer class="container-fluid contact-color" id="footer">
         <div class="row text-center d-flex justify-content-center align-item-center">
