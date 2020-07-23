@@ -123,6 +123,10 @@ header {
 
 /*Colors*/
 
+.link-color {
+    color: #E0AAFF;
+}
+
 .calendar-color{
     background-color: #9d4edd;
 }
