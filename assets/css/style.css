@@ -157,6 +157,9 @@ header {
     align-content: space-around;
     background-color: #3c096c;
     height: 3.5rem;
+    padding-left: 0rem;
+    padding-right: 0rem;
+    width: 100%;
 }
 
 #footer a {
