@@ -88,6 +88,10 @@ header {
     font-size: 3rem;
 }
 
+.add-event-text {
+    padding-top: 3rem;
+}
+
 .contact-button {
     font-size: 2rem;
 }
