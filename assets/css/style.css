@@ -52,6 +52,10 @@ header {
     text-shadow: -1px 0 #5a189a, 0 1px #5a189a, 1px 0 #5a189a, 0 -1px #5a189a;
 }
 
+.jumbotron-text p {
+    font-size: 10rem;
+    text-align: center;
+}
 /*Sections*/
 
 .section-container {
