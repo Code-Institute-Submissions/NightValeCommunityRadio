@@ -8,7 +8,8 @@ body {
     font-family: "Oswald", sans-serif;
     font-weight: 400;
     font-size: 1.6rem;
-    color: #E0AAFF;
+    color: #E0AAFF;    
+    text-align: center;
 }
 
 .raleway-text {
@@ -92,7 +93,6 @@ header {
     padding-top: 3rem;
 }
 
-
 .attach-cv {
     display: block;
     margin-left: 25%;
@@ -100,7 +100,6 @@ header {
     width: 50%;
     text-align: left;
 }
-
 
 /*Forms and Buttons*/
 
