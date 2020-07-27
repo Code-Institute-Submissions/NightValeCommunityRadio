@@ -68,9 +68,6 @@ header {
     text-align: center;
 }
 
-.btn-color {
-    background-color: #E0AAFF;
-}
 
 .section-header {
     padding-top: 1rem;
@@ -141,6 +138,10 @@ header {
 }
 
 /*Colors*/
+
+.btn-color {
+    background-color: #E0AAFF;
+}
 
 .link-color {
     color: #E0AAFF;
