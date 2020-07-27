@@ -10,14 +10,9 @@ body {
     font-size: 1.6rem;
     color: #E0AAFF;
 }
+
 .raleway-text {
     font-family: Raleway, serif;
-}
-
-header {
-    margin: 0;
-    font-family: "Oswald", sans-serif;
-    color: #E0AAFF; 
 }
 
 .row {
@@ -25,10 +20,17 @@ header {
     padding: 0;
 }
 
+/*Header*/
+
+header {
+    margin: 0;
+    font-family: "Oswald", sans-serif;
+    color: #E0AAFF; 
+}
+
 .nav-text {
     font-size: 2vw;
 }
-/*Header*/
 
 /*Home*/
 
