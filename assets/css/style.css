@@ -92,13 +92,6 @@ header {
     padding-top: 3rem;
 }
 
-.date-row {
-    flex-wrap: nowrap;
-}
-
-.about-text {
-    flex-flow: flex-end;
-}
 
 .attach-cv {
     display: block;
