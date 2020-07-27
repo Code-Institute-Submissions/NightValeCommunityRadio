@@ -89,6 +89,11 @@ header {
     font-size: 3rem;
 }
 
+.section-text-xs {
+    font-family: "Raleway", serif;
+    font-size: 2rem;
+}
+
 .add-event-text {
     padding-top: 3rem;
 }
