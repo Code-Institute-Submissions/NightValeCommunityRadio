@@ -68,7 +68,6 @@ header {
     text-align: center;
 }
 
-
 .section-header {
     padding-top: 1rem;
     padding-bottom: 1rem;
@@ -92,15 +91,10 @@ header {
     padding-top: 3rem;
 }
 
-
-
 .date-row {
     flex-wrap: nowrap;
 }
 
-.about-us-cecil {
-    justify-content: space-between;
-}
 
 .cecil-image {
     flex-flow: flex-start;
