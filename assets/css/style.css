@@ -95,11 +95,6 @@ header {
     flex-wrap: nowrap;
 }
 
-
-.cecil-image {
-    flex-flow: flex-start;
-}
-
 .about-text {
     flex-flow: flex-end;
 }
