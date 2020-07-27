@@ -74,7 +74,7 @@ header {
     padding-bottom: 1rem;
 }
 
-.header-text-lg {
+.section-text-lg {
     font-size: 8rem;
 }
 
@@ -83,7 +83,7 @@ header {
     font-size: 5rem;
 }
 
-.calendar-contact-text {
+.header-text-sm {
     font-family: "Raleway", serif;
     font-size: 3rem;
 }
