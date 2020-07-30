@@ -74,6 +74,10 @@ header {
     text-align: center;
 }
 
+.section-closer {
+    padding-bottom: 5rem;
+}
+
 .text-lg {
     font-size: 8rem;
 }
