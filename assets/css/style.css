@@ -111,6 +111,15 @@ header {
 
 /*Forms and Buttons*/
 
+.about {
+    display: inline-block;
+    justify-content: space-around;
+}   
+
+.input {
+    justify-content: center;
+}
+
 /*Colors*/
 
 .btn-color {
