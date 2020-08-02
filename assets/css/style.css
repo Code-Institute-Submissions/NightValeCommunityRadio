@@ -106,6 +106,10 @@ header {
     margin-left: 10rem;
 }
 
+.about-text {
+    min-width: 20rem;
+}
+
 /*Forms and Buttons*/
 
 .about {
