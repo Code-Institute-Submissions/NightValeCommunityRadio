@@ -101,6 +101,9 @@ header {
     font-size: 2rem;
 }
 
+.about-image {
+    float: left;
+}
 
 /*Forms and Buttons*/
 
