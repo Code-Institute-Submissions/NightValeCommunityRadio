@@ -74,6 +74,10 @@ header {
     text-align: center;
 }
 
+.padding-top {
+    padding-top: 5rem;
+}
+
 .padding-btm {
     padding-bottom: 5rem;
 }
