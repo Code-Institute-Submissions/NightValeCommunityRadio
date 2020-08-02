@@ -103,6 +103,7 @@ header {
 
 .about-image {
     float: left;
+    margin-left: 10rem;
 }
 
 /*Forms and Buttons*/
