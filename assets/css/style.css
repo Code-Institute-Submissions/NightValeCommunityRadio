@@ -78,6 +78,10 @@ header {
     padding-top: 5rem;
 }
 
+.padding-top-sm {
+    padding-top: 2rem;
+}
+
 .padding-btm {
     padding-bottom: 5rem;
 }
@@ -114,13 +118,15 @@ header {
 
 /*Forms and Buttons*/
 
-.about {
-    display: inline-block;
-    justify-content: space-around;
+.attach {
+    padding-top: 3rem;
 }   
 
 .input {
     justify-content: center;
+    width: auto;
+    display: block;
+    margin: 0 auto;
 }
 
 /*Colors*/
