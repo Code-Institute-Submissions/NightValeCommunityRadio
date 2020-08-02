@@ -104,10 +104,12 @@ header {
 .about-image {
     float: left;
     margin-left: 10rem;
+    margin-right: 30rem;
 }
 
 .about-text {
-    min-width: 20rem;
+    margin-right: 10rem;
+    margin-left: 10rem;
 }
 
 /*Forms and Buttons*/
