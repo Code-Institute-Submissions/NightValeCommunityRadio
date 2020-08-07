@@ -23,10 +23,7 @@ body {
 
 /*Header*/
 
-header {
-    margin: 0;
-    color: #E0AAFF; 
-}
+
 
 .fixed-top {
     position: fixed;
