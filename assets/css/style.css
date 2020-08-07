@@ -71,7 +71,7 @@ header {
 /*Sections*/
 
 .section-header {
-    max-width: 100vw;
+    max-width: 100%;
     position: relative;
     margin: 0;
     padding-top: 5rem;
@@ -107,17 +107,14 @@ header {
 }
 
 .text-md {
-    font-family: "Raleway", serif;
     font-size: 5rem;
 }
 
 .text-sm {
-    font-family: "Raleway", serif;
     font-size: 3rem;
 }
 
 .text-xs {
-    font-family: "Raleway", serif;
     font-size: 2rem;
 }
 
