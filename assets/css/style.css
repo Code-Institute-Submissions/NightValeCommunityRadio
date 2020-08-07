@@ -12,6 +12,11 @@ body {
     text-align: center;
 }
 
+p {
+    margin-bottom: 0;
+}
+
+
 .raleway-text {
     font-family: Raleway, serif;
 }
@@ -19,10 +24,6 @@ body {
 .row {
     margin: 0;
     padding: 0;
-}
-
-p {
-    margin-bottom: 0;
 }
 
 /*Header*/
