@@ -94,6 +94,24 @@ body {
     padding-bottom: 5rem;
 }
 
+@media {min-width: 576px}{
+    .raleway-text {
+        font-size: 2rem;
+    } 
+}
+
+@media {min-width: 768px}{
+    .raleway-text {
+        font-size: 3rem;
+    } 
+}
+
+@media {min-width: 992px}{
+    .raleway-text {
+        font-size: 8rem;
+    } 
+}
+
 .text-lg {
     font-size: 8rem;
 }
