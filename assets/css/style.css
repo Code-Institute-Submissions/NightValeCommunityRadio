@@ -21,6 +21,12 @@ body {
     padding: 0;
 }
 
+.container-fluid{
+  padding-left: 0rem;
+  padding-right: 0rem;
+  overflow: hidden;
+}
+
 /*Header*/
 
 
@@ -110,8 +116,7 @@ body {
     font-size: 2rem;
 }
 
-
-
+/* 
 .about-image {
     float: left;
     margin-left: 10rem;
@@ -121,7 +126,8 @@ body {
 .about-text {
     margin-right: 10rem;
     margin-left: 10rem;
-}
+} 
+*/
 
 /*Forms and Buttons*/
 
