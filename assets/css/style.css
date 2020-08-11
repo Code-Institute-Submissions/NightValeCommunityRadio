@@ -22,9 +22,9 @@ body {
 }
 
 .container-fluid{
-  padding-left: 0rem;
-  padding-right: 0rem;
-  overflow: hidden;
+    padding-left: 0rem;
+    padding-right: 0rem;
+    overflow: hidden;
 }
 
 /*Header*/
@@ -131,7 +131,10 @@ body {
 
 /*Forms and Buttons*/
 
-
+.btn-padding {
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+}
 
 /*Colors*/
 
