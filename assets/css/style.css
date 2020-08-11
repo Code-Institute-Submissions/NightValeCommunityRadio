@@ -80,17 +80,6 @@ body {
   }
 }
 
-/*
-.jumbotron-text {
-    font-family: "Oswald", sans-serif;
-    font-size: 10rem;
-    text-align: center;
-    color: #E0AAFF;
-    padding-top: 25rem;
-    text-shadow: -1px 0 #5a189a, 0 1px #5a189a, 1px 0 #5a189a, 0 -1px #5a189a;
-}
-*/
-
 /*Sections*/
 
 .section-header {
@@ -150,19 +139,6 @@ body {
 .text-sm {
     font-size: 2rem;
 }
-
-/* 
-.about-image {
-    float: left;
-    margin-left: 10rem;
-    margin-right: 3rem;
-}
-
-.about-text {
-    margin-right: 10rem;
-    margin-left: 10rem;
-} 
-*/
 
 /*Forms and Buttons*/
 
