@@ -92,7 +92,6 @@ As mentioned just under the Design Choices header, the <a href='https://coolors.
 
 * .contact-color: #240046 <strong>“Russian Violet”</strong> I decided to use this color as the color for the contact section, the navbar and the footer largely because it would make the navbar text really pop out, and because the I planned to have the contact section be at the bottom of the site. It being at the bottom of the site played out well for the plan to have the main section colors work in a gradient.
 * .apply-color: #3c096c <strong>“Persian Indigo”</strong> I decided to use this color for the apply section because I planned it as the section above the contact section, and that was the next color for the gradient.
-* .about-color: #5a189a <strong>“Purple”</strong> I decided to use this color for the about section because I planned it as the section above the apply section, and that was the next color for the gradient.
 * .weather-color: #7b2cbf <strong>“French Violet”</strong> I decided to use this color for the weather section because I planned it as the section above the about section, and that was the next color for the gradient.
 * .calendar-color: #9d4edd <strong>"Dark Orchid"</strong> I decided to use this color for the calendar section because I planned it as the section above the weather section, and that was the next color for the gradient.
 * .btn-color and .link-color: #E0AAFF <strong>"Mauve"</strong> This color was perfect for the site's buttons, links and text as it was light enough to be clearly legible over even the lightest section color, and it really pops off of the dark navbar, footer, and contact section.
@@ -130,7 +129,7 @@ Ask abou this! BEM Stands for block element modifier, and is a way of writing CS
 
 ##### Background:
 
-The hero image - hero.jpg - 
+The <a href='../images/hero.jpg'>hero image</a> was selected because it was available for use without broaching usage rights, fit the panoramic image shape, and depicted a scene from a desert town like Night Vale. 
 
 ### Wireframes 
 
@@ -143,7 +142,7 @@ I used <a href="https://balsamiq.com/">Balsamiq</a> to build this project’s wi
 * Internship application form
 * Communication form
 * Link to instruct the user on how to add their event to the community calendar
-* Weather video
+* Weather videos for the week
 
 ## Technologies Used: 👨‍💻
 
@@ -164,7 +163,8 @@ I used <a href="https://balsamiq.com/">Balsamiq</a> to build this project’s wi
 
 ## Bugs:
 #### Bugs During Development:
-#### Known Bugs:
+#### Known Bugs: 
+
 
 ## Deployment:
 
