@@ -29,8 +29,6 @@ body {
 
 /*Header*/
 
-
-
 .fixed-top {
     position: fixed;
     top: 0;
@@ -52,7 +50,7 @@ body {
 
 .jumbotron {
     background-color: transparent; 
-    background: url("../images/marfa.jpg") no-repeat center center fixed;
+    background: url("../images/hero.jpg") no-repeat center center fixed;
     height: 100vh;
     background-size: cover;
     margin-bottom: 0%;

@@ -21,7 +21,7 @@ Thank you for taking the time to come visit my project! I welcome any comments, 
 * Wireframes 
 * Features 
     * Features that have been developed
-    *  Features that will be implemented in the future
+    * Features that will be implemented in the future
 * Technologies Used
 * Testing 
 * Bugs 
@@ -47,14 +47,14 @@ The goal of this project is to help users access community information and commu
 
 ##### User 1: As a user I expect to be able to check the weather before leaving my house.
 ##### User 2: As a user I expect to know what the upcoming events in my community are.
-##### User 3: As a user I expect to be able to be able to apply to intern at the radio station.
-##### User 5: As a user I expect to be able to add my event to the community calendar.
-##### User 6: As a user I expect to be able to learn about other people in my community.
+##### User 3: As a user I expect to be able to be able to express interest in interning at the radio station.
+##### User 4: As a user I expect to be able to add my event to the community calendar.
 
 #### Site Owner Goals:
 * Provide information to the community about upcoming events.
-* Gather applications for internships.
-* Accurately display the weather.
+* Gather application interest for internships.
+* Open pathways for communications from community.
+* Accurately display the weather, updated on a weekly basis.
 
 ## User Requirements and Expectations:
 ##### Requirements:
@@ -66,36 +66,40 @@ The goal of this project is to help users access community information and commu
 * Website is displayed appealingly.
 
 ##### Expectations:
-* Can tap/click on navbar links to direct around the site
-* Community calendar is up to date
-* Weather forecast is up to date
-* Contact and application forms are functional
-* Navbar condenses to drop down menu in mobile/table view
-* Website is appealing and accurate
+* Can tap/click on navbar links to direct around the site.
+* Community calendar is up to date.
+* Weather forecast is up to date.
+* Contact and application forms are functional.
+* Navbar condenses to drop down menu in mobile/tablet view.
+* Website is appealing and provides accurate information.
 
 ## Design Choices: 🎨
 
-The theme of this project is holidays and vacations, therefore my design choices are heavily influenced by positive colours and motifs. Using the resources in <a href='https://www.crazyegg.com/blog/colors-proven-to-boost-sales/'>this</a> blog I was able to pick out a colour scheme that has been proven to boost sales/interaction with a web page.
+The color palette for this site is inspired by the color palette for the Welcome To Night Vale podcast logo and <a href='http://www.welcometonightvale.com/'>official website</a>, which relies heavily on different shades of purple. I used <a href='https://coolors.co/10002b-240046-3c096c-5a189a-7b2cbf-9d4edd-c77dff-e0aaff'>this palette</a> from <a href='https://coolors.co/'>Coolors</a>.
 
-##### Fonts: 
-I chose to use the font <a href="https://fonts.google.com/?query=lato&selection.family=Lato">LATO</a> as it showcases a very simplistic style which compliments the minimalist nature of the overall site design. The focus of the content is to provide an informative experience for the customer, which heavily influenced my decision to choose a font that isn't too ambiguous.
+##### Fonts:
+
+The two fonts I used for this site are <a href='https://fonts.google.com/specimen/Oswald?query=oswald'>Oswald</a> and <a href='https://fonts.google.com/specimen/Raleway?query=raleway'>Raleway</a>. I chose these two because they work smoothly together, and have a simplistic, sans-serif style similar to that of the podcast's official site. 
+
 
 ##### Icons: 
-The icons used are self explanatory so that the user does not need to struggle to interpret what the icon will actually do. I use the icon ‘bars’ from font-awesome icons, to display the classic ‘burger-button’ on tablet and mobile devices, this is well known in the industry as being a point for navigation. I had to make sure that the icon was big enough on smaller devices to ensure easy access.
+
+I chose to use only two kinds of icons: footer icons that serve as links to Night Vale Community Radio's other social media pages, and a hamburger icon that serves as a drop-down navbar menu on mobile devices and tablets. All icons used are widely recognizable for their use.
 
 ##### Colours:
-Using learned knowledge from prior research, bright and vibrant colours have a higher influence in terms of positivity and therefore more potential sales/leads and interactions: Using <a href='[Generate - Coolors.co](https://coolors.co/d9f0ff-5bc0eb-e55934-fa7921-fde74c)'>This</a> i was able to find a colour scheme that suited the afor mentioned points.
 
-* Primary: #4ECDC4 <strong>“Moderate cyan”</strong> I chose this as the primary colour as the colour cyan is great to influence thoughts of trust, honesty and intelligence.
-* Secondary: #264c5f <strong>“Very dark blue”</strong> I chose this as the secondary colour as this colour provides an eye catching variation to the primary blue, this is used in most places as a background colour.
-* Tertiary: #1A535C <strong>“Arapawa”</strong> This tertiary colour will be used as an accent highlight on certain elements, this colour promotes happiness among the average person and therefore (hopefully) influence more sales/leads.
-* Navigation Colour: #FF6B6B <strong>“Bittersweet”</strong> This bursting colour provides excellent contrast for the dark blues, with the added benefit of being a blend of orange/red which influences a hightened emotional response.
-* Default Body Colour: #F7fff7 <strong>"Mint White"</strong> This off white colour will provide a discreet contrast from the blue theme i've got within this project, a subtle yet effective default body colour.
-* Default Body Panel Colour: #2a3439 <strong>"Darkest Blue"</strong> This dark shade of blue will be used to provide backgrounds to specific panels of interest especially on the hero section of the website.
+As mentioned just under the Design Choices header, the <a href='https://coolors.co/10002b-240046-3c096c-5a189a-7b2cbf-9d4edd-c77dff-e0aaff'>color palette</a> I used was from <a href='coolors.co'>Coolors.co</a>. I attributed different colors to different sections in a gradient pattern, and named them after the sections they were predominantely used for in the site.
+
+* .contact-color: #240046 <strong>“Russian Violet”</strong> I decided to use this color as the color for the contact section, the navbar and the footer largely because it would make the navbar text really pop out, and because the I planned to have the contact section be at the bottom of the site. It being at the bottom of the site played out well for the plan to have the main section colors work in a gradient.
+* .apply-color: #3c096c <strong>“Persian Indigo”</strong> I decided to use this color for the apply section because I planned it as the section above the contact section, and that was the next color for the gradient.
+* .about-color: #5a189a <strong>“Purple”</strong> I decided to use this color for the about section because I planned it as the section above the apply section, and that was the next color for the gradient.
+* .weather-color: #7b2cbf <strong>“French Violet”</strong> I decided to use this color for the weather section because I planned it as the section above the about section, and that was the next color for the gradient.
+* .calendar-color: #9d4edd <strong>"Dark Orchid"</strong> I decided to use this color for the calendar section because I planned it as the section above the weather section, and that was the next color for the gradient.
+* .btn-color and .link-color: #E0AAFF <strong>"Mauve"</strong> This color was perfect for the site's buttons, links and text as it was light enough to be clearly legible over even the lightest section color, and it really pops off of the dark navbar, footer, and contact section.
 
 ##### Styling: 
 
-Thanks to SASS/SCSS I was easily able to set variables in my stylesheets that ask as the house style - this means that the styles can be used in multiple places without having to repeat code. Using SASS also allowed me to better structure my stylesheets, splitting them off into partial files for example, splitting the css into ‘component’ files, i.e map, buttons, headers (see assets/scss for all partial files). Using BEM allowed me to easily nest my SASS code and also making my HTML code much more readable.
+Ask about this! What should I put here? Thanks to SASS/SCSS I was easily able to set variables in my stylesheets that ask as the house style - this means that the styles can be used in multiple places without having to repeat code. Using SASS also allowed me to better structure my stylesheets, splitting them off into partial files for example, splitting the css into ‘component’ files, i.e map, buttons, headers (see assets/scss for all partial files). Using BEM allowed me to easily nest my SASS code and also making my HTML code much more readable.
 
 ##### Example Variables:
 
@@ -121,11 +125,12 @@ $default-box-shadow: 1px 1px 1px rgba(0,0,0,0.4);
 
 ##### BEM:
 
-BEM Stands for block element modifier, and is a way of writing CSS/SASS code in order to organise the code into a much more readable format. Head to the credits to read more about BEM style.
+Ask abou this! BEM Stands for block element modifier, and is a way of writing CSS/SASS code in order to organise the code into a much more readable format. Head to the credits to read more about BEM style.
 
 
 ##### Background:
-The background images I chose to use on the banner are sourced from royalty free websites, they showcase different types of ‘lifestyle’ shots on different holiday destinations. Arguably large images like the ones mentioned are great for encouraging sales and leads. I manually resize the images using a tool called Gimp, having accurately sized images reduces the load time of the website.
+
+The hero image - hero.jpg - 
 
 ### Wireframes 
 
@@ -183,6 +188,5 @@ The following steps were followed to deploy Night Vale Community Radio through G
 
 ## Credits: 
 * <a href="http://www.welcometonightvale.com">Welcome to Night Vale</a>
-* <a href="https://nightvale.fandom.com/wiki/Cecil_Gershwin_Palmer">Night Vale Fanwiki - text for About Us section</a>
 * <a href="https://github.com/Eventyret">Simen Daehlin</a>
 * Code Institute Slack Community
