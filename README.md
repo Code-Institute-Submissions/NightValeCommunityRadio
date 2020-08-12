@@ -129,7 +129,7 @@ Ask abou this! BEM Stands for block element modifier, and is a way of writing CS
 
 ##### Background:
 
-The <a href='../images/hero.jpg'>hero image</a> was selected because it was available for use without broaching usage rights, fit the panoramic image shape, and depicted a scene from a desert town like Night Vale. 
+The <a href='../images/hero.jpg'>hero image</a> was selected because it was available for use without broaching usage rights, and depicted a scene from a desert town like Night Vale. I went for an old-school ghost town image because an aspect of the show is that nobody really knows when Night Vale exists, and it is often hinted that the citizens there are very, very old.
 
 ### Wireframes 
 
