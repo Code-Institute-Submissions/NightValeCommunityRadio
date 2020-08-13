@@ -27,7 +27,7 @@ body {
     overflow: hidden;
 }
 
-/*Header*/
+/*Navbar*/
 
 .fixed-top {
     position: fixed;
@@ -36,6 +36,10 @@ body {
     left: 0;
     z-index: 1030;
     max-width: 100vw;
+}
+
+.collapse {
+    font-size: 2vw;
 }
 
 .nav-text {
