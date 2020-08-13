@@ -81,7 +81,6 @@ The color palette for this site is inspired by the color palette for the Welcome
 
 The two fonts I used for this site are <a href='https://fonts.google.com/specimen/Oswald?query=oswald'>Oswald</a> and <a href='https://fonts.google.com/specimen/Raleway?query=raleway'>Raleway</a>. I chose these two because they work smoothly together, and have a simplistic, sans-serif style similar to that of the podcast's official site. 
 
-
 ##### Icons: 
 
 I chose to use only two kinds of icons: footer icons that serve as links to Night Vale Community Radio's other social media pages, and a hamburger icon that serves as a drop-down navbar menu on mobile devices and tablets. All icons used are widely recognizable for their use.
@@ -176,9 +175,14 @@ Footer icon alignment:
 * Fix: Using flex rules in the css #footer id.
 * Verdict: Simen had me take some time playing with <a href='boxfroggy.com'>Flexbox Froggy</a>, which is what gave me the tools to fix this!
 
-
+Navbar hamburger size:
+* Bug: In small screens, the navbar dropdown hamburger icon was inconveniently small.
+* Fix: Overrode .container in style.css by applying font-size: 2vw;
+* Verdict: I found this fix on the internet, thanks <a href='https://generatepress.com/forums/topic/change-hamburguer-menu-icon-size/'>David</a>!
 
 #### Known Bugs: 
+
+Sometimes, when in dev tools the site works smoothly. Other times, the screen doesn't automatically fit, and there is a horizontal scroll.
 
 
 ## Deployment:
@@ -199,9 +203,25 @@ The following steps were followed to deploy Night Vale Community Radio through G
 
 #### Running Night Vale Community Radio Locally: 
 
+Cloning Night Vale Community Radio from GitHub:
+* Navigate your screen to '/mcalistm/NightValeCommunityRadio'.
+* Click on the green 'Copy' button.
+* Copy the provided URL.
+* Start up the terminal of your choice with the IDE of your choice.
+* Navigate to the file location of your choice.
+* To clone, copy this code and input it into your terminal: https://github.com/mcalistm/NightValeCommunityRadio.git
+
 ## Closing Notes:
+
+This project has encouraged me to think about how I think in order to provide information in a clean, concise and friendly way to users. It has also helped me get a better grasp on bootstrap, 
+and has increased my confidence in my abilities as a very junior web developer. I very much look forward to continuting to build my skills! There were a few times where problems I came across 
+could easily be solved by javascript, so I am particularly excited to learn this. Creating this website has been incredibly fun and rewarding, while also being one of the more challenging 
+undertakings I've committed to in quite a while. I'm so, so glad I did it.
 
 ## Credits: 
 * <a href="http://www.welcometonightvale.com">Welcome to Night Vale</a>
 * <a href="https://github.com/Eventyret">Simen Daehlin</a>
 * Code Institute Slack Community
+* Code Institute Tutors
+* <a href='https://github.com/Geomint'>George Pyott</a>'s <a href='https://github.com/Geomint/holiday-destinations/blob/master/README.md'>Holiday Destinations README.md file</a>, shown to me by Simen.
+* <a href='https://generatepress.com/forums/topic/change-hamburguer-menu-icon-size/'>This query at GeneratePress</a>
