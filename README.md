@@ -101,6 +101,8 @@ As mentioned just under the Design Choices header, the
 <a href='coolors.co'>Coolors.co</a>. I attributed different colors to different sections in a gradient pattern, and named 
 them after the sections or functions they were predominantely used for in the site.
 
+![NVCR Color Palette](./wireframes/paletteNVCR.png "NVCR Color Palette")
+
 * .contact-color: #240046 **“Russian Violet”** I decided to use this color as the color for the contact section, 
 the navbar and the footer largely because it would make the navbar text really pop out, and because the I planned to have the 
 contact section be at the bottom of the site. It being at the bottom of the site played out well for the plan to have the main 
