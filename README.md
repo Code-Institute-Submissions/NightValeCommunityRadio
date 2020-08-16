@@ -152,8 +152,11 @@ I used <a href="https://balsamiq.com/">Balsamiq</a> to build this project’s wi
 
 ### Tools & Libraries:
 * <a href="https://getbootstrap.com/">Bootstrap</a>
+* <a href="https://fontawesome.com/icons?d=gallery">Font-Awesome</a>
 * <a href="https://git-scm.com/">Git</a>
 * <a href="https://fonts.google.com/">Google Fonts</a>
+* <a href="https://jquery.com/">jQuery</a>
+* <a href='https://www.javascript.com/'>JS</a></a>
 
 ## Testing:
 
