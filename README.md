@@ -101,17 +101,17 @@ As mentioned just under the Design Choices header, the
 <a href='coolors.co'>Coolors.co</a>. I attributed different colors to different sections in a gradient pattern, and named 
 them after the sections or functions they were predominantely used for in the site.
 
-* .contact-color: #240046 <strong>“Russian Violet”</strong> I decided to use this color as the color for the contact section, 
+* .contact-color: #240046 **“Russian Violet”** I decided to use this color as the color for the contact section, 
 the navbar and the footer largely because it would make the navbar text really pop out, and because the I planned to have the 
 contact section be at the bottom of the site. It being at the bottom of the site played out well for the plan to have the main 
 section colors work in a gradient.
-* .apply-color: #3c096c <strong>“Persian Indigo”</strong> I decided to use this color for the apply section because I planned it 
+* .apply-color: #3c096c **“Persian Indigo”** I decided to use this color for the apply section because I planned it 
 as the section above the contact section, and that was the next color for the gradient.
-* .weather-color: #7b2cbf <strong>“French Violet”</strong> I decided to use this color for the weather section because I planned 
+* .weather-color: #7b2cbf **“French Violet”** I decided to use this color for the weather section because I planned 
 it as the section above the about section, and that was the next color for the gradient.
-* .calendar-color: #9d4edd <strong>"Dark Orchid"</strong> I decided to use this color for the calendar section because I planned 
+* .calendar-color: #9d4edd **"Dark Orchid"** I decided to use this color for the calendar section because I planned 
 it as the section above the weather section, and that was the next color for the gradient.
-* .btn-color and .link-color: #E0AAFF <strong>"Mauve"</strong> This color was perfect for the site's buttons, links and text as 
+* .btn-color and .link-color: #E0AAFF **"Mauve"** This color was perfect for the site's buttons, links and text as 
 it was light enough to be clearly legible over even the lightest section color, and it really pops off of the dark navbar, footer, 
 and contact section.
 
@@ -186,74 +186,74 @@ rem units, the text size wasn't responding well. In the end, media queries were 
 
 ### Overall:
 
-<strong>Responsiveness - </strong>
-* <strong>Plan</strong>: Following the principle of mobile-first design, I knew that this had to be entirely responsive. 
+**Responsiveness - **
+* **Plan**: Following the principle of mobile-first design, I knew that this had to be entirely responsive. 
 Given this, my level of education, and the guidelines of this project, this meant Bootstrap as a core framework, with 
 regular use of dev tools to run tests throughout and a post-peer-review test before submission.
-* <strong>Implementation</strong>: As I wrote my code, I frequently pulled from Bootstrap, modifying as needed. Modifications
+* **Implementation**: As I wrote my code, I frequently pulled from Bootstrap, modifying as needed. Modifications
 were almost entirely regarding aesthetic/design, and testing was fairly simple thanks to dev tools and being told by my
 fellow students about ctrl+shift+r.
-* <strong>Result</strong>: After some modifications (i.e., media query for .jumbotron-text), the site is fully responsive,
+* **Result**: After some modifications (i.e., media query for .jumbotron-text), the site is fully responsive,
 with no overflow or illegible information.
-* <strong>Verdict</strong>: The site is responsive! The test passes.
+* **Verdict**: The site is responsive! The test passes.
 
-<strong>Design -</strong>
-* <strong>Plan</strong>: I wanted the site to be inline with the podcast's official color scheme, which lead to the use of
+**Design -**
+* **Plan**: I wanted the site to be inline with the podcast's official color scheme, which lead to the use of
 purples. Using the darkest shade in the header and footer allowed for a sense of bordering, while the lightest shade popped
 well against all of the other colors, making it the perfect choice for text and links.
-* <strong>Implementation</strong>: Creating classes for the colors allowed for very easy, understandable and smooth design. 
-* <strong>Result</strong>: The color palette I chose to use works well.
-* <strong>Verdict</strong>: Because the color palette works well, this test passes!
+* **Implementation**: Creating classes for the colors allowed for very easy, understandable and smooth design. 
+* **Result**: The color palette I chose to use works well.
+* **Verdict**: Because the color palette works well, this test passes!
 
 ### Features:
 
-<strong>Navbar and Footer -</strong>
-* <strong>Plan</strong>: In the planning phase, I decided that I wanted the navbar to be fixed and for the links to shrink 
+**Navbar and Footer -**
+* **Plan**: In the planning phase, I decided that I wanted the navbar to be fixed and for the links to shrink 
 into a dropdown menu for mobile and tablet screens. I wanted the footer to only be visible when the user scrolls to the 
 bottom of the page, and for it to have links to other Night Vale sites (Instagram, Tripadvisor, etc.)
-* <strong>Implementation</strong> : I used Bootstrap to build these.
-* <strong>Result</strong>: The navbar and footer are both positioned where I want them and are fully responsive.
-* <strong>Verdict</strong>: Regarding these results, this test passes.
+* **Implementation** : I used Bootstrap to build these.
+* **Result**: The navbar and footer are both positioned where I want them and are fully responsive.
+* **Verdict**: Regarding these results, this test passes.
 
-<strong>Community Calendar -</strong>
-* <strong>Plan</strong>: I wanted this calendar to look something like a table, but was advised by Simen to not use an
+**Community Calendar -**
+* **Plan**: I wanted this calendar to look something like a table, but was advised by Simen to not use an
 actual Bootstrap table, as those are not very workable re: responsivness. I planned to have the different rows be different
 colors in the reverse of the section color gradient rather than having borders, as I found this more aesthetically pleasing.
-* <strong>Implementation</strong> : I used Bootstrap to build these rows.
-* <strong>Result</strong>: The community calendar is responsive, clean and easily readable.
-* <strong>Verdict</strong>: Regarding these results, this test passes.
+* **Implementation** : I used Bootstrap to build these rows.
+* **Result**: The community calendar is responsive, clean and easily readable.
+* **Verdict**: Regarding these results, this test passes.
 
-<strong>Application Form -</strong>
-* <strong>Plan</strong>: Originally, I wrote this part to include a file upload form. However, toying around with it I 
+**Application Form -**
+* **Plan**: Originally, I wrote this part to include a file upload form. However, toying around with it I 
 discovered that the only way to make it fit in the page the way that I wanted was to implement JS, which I am not
 educated in yet. So, I reworked it a bit to have the two links, three input fields, two form-checks, and a submit button.
-* <strong>Implementation</strong> : I used Bootstrap to implement the various form elements.
-* <strong>Result</strong>: While the end result isn't what I had envisioned, it is clean, responsive, and understandable.
-* <strong>Verdict</strong>: Regarding these results, this test passes.
+* **Implementation** : I used Bootstrap to implement the various form elements.
+* **Result**: While the end result isn't what I had envisioned, it is clean, responsive, and understandable.
+* **Verdict**: Regarding these results, this test passes.
 
-<strong>Communication Form -</strong>
-* <strong>Plan</strong>: What I planned for this section is exactly how it turned out! First name, last name, email, and
+**Communication Form -**
+* **Plan**: What I planned for this section is exactly how it turned out! First name, last name, email, and
 text input boxes with a submit button.
-* <strong>Implementation</strong> : I used Bootstrap to implement the necessary form elements.
-* <strong>Result</strong>: The end result is exactly what I had envisioned! It is clean, responsive, and understandable.
-* <strong>Verdict</strong>: Regarding these results, this test passes.
+* **Implementation** : I used Bootstrap to implement the necessary form elements.
+* **Result**: The end result is exactly what I had envisioned! It is clean, responsive, and understandable.
+* **Verdict**: Regarding these results, this test passes.
 
-<strong>Add Event Button -</strong>
-* <strong>Plan</strong>: While in the planning phase, I wanted a button that would lead the user from the calendar down to 
+**Add Event Button -**
+* **Plan**: While in the planning phase, I wanted a button that would lead the user from the calendar down to 
 the contact section, because I figured that that would be a primary user need.
-* <strong>Implementation</strong> : I used Bootstrap to add in this button.
-* <strong>Result</strong>: The end result is responsive and clean.
-* <strong>Verdict</strong>: Regarding these results, this test passes.
+* **Implementation** : I used Bootstrap to add in this button.
+* **Result**: The end result is responsive and clean.
+* **Verdict**: Regarding these results, this test passes.
 
-<strong>Weather Videos -</strong>
-* <strong>Plan</strong>: While in the planning phase, I wanted this to be a carousel of videos. However, I learned that
+**Weather Videos -**
+* **Plan**: While in the planning phase, I wanted this to be a carousel of videos. However, I learned that
 in order to command the videos to stop playing once the user scrolled by, I would need to use JS, which is currently out of 
 my paygrade. So, I reworked the layout so all videos were on display. In mobile, they line up down the screen. While I wanted
 the lines of text to reorder between mobile and tablet+, I was informed by a tutor that this can only be completed with JS, 
 so I decided to leave it be.
-* <strong>Implementation</strong> : I used Bootstrap to make this new layout responsive and clean.
-* <strong>Result</strong>: While the end result isn't what I had envisioned, it is clean, responsive, and understandable.
-* <strong>Verdict</strong>: Regarding these results, this test passes.
+* **Implementation** : I used Bootstrap to make this new layout responsive and clean.
+* **Result**: While the end result isn't what I had envisioned, it is clean, responsive, and understandable.
+* **Verdict**: Regarding these results, this test passes.
 
 ## Bugs:
 #### Bugs During Development:
@@ -289,13 +289,13 @@ Night Vale Community Radio was developed in GitPod, hosted by GitHub and using g
 
 The following steps were followed to deploy Night Vale Community Radio through GitHub Pages:
 
-* Loaded <strong>GitHub</strong> in Chrome web browser.
+* Loaded **GitHub** in Chrome web browser.
 * Signed into GitHub.
-* Clicked on my <strong>repositories</strong>.
-* Navigated to <strong>'mcalistm/NightValeCommunityRadio'</strong>.
-* Selected <strong>'settings'</strong>.
-* Navigated to the <strong>GitHub Pages</strong> area of the page. 
-* Selected <strong>'Master Branch'</strong> from the <strong>'Source'</strong> dropdown menu.
+* Clicked on my **repositories**.
+* Navigated to **'mcalistm/NightValeCommunityRadio'**.
+* Selected **'settings'**.
+* Navigated to the **GitHub Pages** area of the page. 
+* Selected **'Master Branch'** from the **'Source'** dropdown menu.
 * Confirmed my selection.
 * Night Vale Community Radio is now live on GitHub Pages.
 
