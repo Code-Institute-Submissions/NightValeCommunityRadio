@@ -324,4 +324,3 @@ undertakings I've committed to in quite a while. I'm so, so glad I did it.
 * <a href='https://github.com/Geomint'>George Pyott</a>'s 
 <a href='https://github.com/Geomint/holiday-destinations/blob/master/README.md'>Holiday Destinations README.md file</a>, 
 shown to me by Simen.
-* <a href='https://generatepress.com/forums/topic/change-hamburguer-menu-icon-size/'>This query at GeneratePress</a>
