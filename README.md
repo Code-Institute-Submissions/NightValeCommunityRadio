@@ -45,10 +45,10 @@ The goal of this project is to help users access community information and commu
 
 #### User Stories:
 
-##### User 1: As a user I expect to be able to check the weather before leaving my house.
-##### User 2: As a user I expect to know what the upcoming events in my community are.
-##### User 3: As a user I expect to be able to be able to express interest in interning at the radio station.
-##### User 4: As a user I expect to be able to add my event to the community calendar.
+##### As a user I expect to be able to check the weather before leaving my house.
+##### As a user I expect to know what the upcoming events in my community are.
+##### As a user I expect to be able to be able to express interest in interning at the radio station.
+##### As a user I expect to be able to add my event to the community calendar.
 
 #### Site Owner Goals:
 * Provide information to the community about upcoming events.
@@ -115,7 +115,7 @@ it as the section above the weather section, and that was the next color for the
 it was light enough to be clearly legible over even the lightest section color, and it really pops off of the dark navbar, footer, 
 and contact section.
 
-<!-- ##### Styling: 
+##### Styling: 
 
 Thanks to SASS/SCSS I was easily able to set variables in my stylesheets that ask as the house 
 style - this means that the styles can be used in multiple places without having to repeat code. Using SASS also allowed me to better 
@@ -155,7 +155,7 @@ I used <a href="https://balsamiq.com/">Balsamiq</a> to build this project’s wi
 * <a href="https://git-scm.com/">Git</a>
 * <a href="https://fonts.google.com/">Google Fonts</a>
 
-<!-- ## Testing:
+## Testing:
 
 Since this was my first website, I wanted to make sure that I was thurough in my testing. Thankfully, I was able
 to accomplish this with the help of the Slack community and my dedicated mentor. 
@@ -250,7 +250,7 @@ the lines of text to reorder between mobile and tablet+, I was informed by a tut
 so I decided to leave it be.
 * <strong>Implementation</strong> : I used Bootstrap to make this new layout responsive and clean.
 * <strong>Result</strong>: While the end result isn't what I had envisioned, it is clean, responsive, and understandable.
-* <strong>Verdict</strong>: Regarding these results, this test passes. -->
+* <strong>Verdict</strong>: Regarding these results, this test passes.
 
 ## Bugs:
 #### Bugs During Development:
