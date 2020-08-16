@@ -159,6 +159,10 @@ body {
     color: #E0AAFF;
 }
 
+.link-color:hover {
+    color: #FFF;
+}
+
 .calendar-color{
     background-color: #9d4edd;
 }

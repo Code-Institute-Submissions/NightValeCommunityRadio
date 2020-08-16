@@ -1,6 +1,6 @@
 # Night Vale Community Radio Website
 
-!-- insert multi-device screenshot here --!
+!-- insert multi-device screenshot here --! put in wireframes too
 
 Thank you for taking the time to come visit my project! I welcome any comments, questions, and suggestions, and can be reached with my GitHub contact details.
 
@@ -122,33 +122,6 @@ style - this means that the styles can be used in multiple places without having
 structure my stylesheets, splitting them off into partial files for example, splitting the css into ‘component’ files, i.e map, buttons, 
 headers (see assets/scss for all partial files). Using BEM allowed me to easily nest my SASS code and also making my HTML code much more 
 readable.
-
-##### Example Variables:
-
-Colours: 
-
-```scss
-$primary-color: #4ECDC4;
-$secondary-color: #264c5f;
-$tertiary-color: #1A535C;
-$navigation-color: #FF6B6B;
-$default-body-color: #F7fff7;
-$default-body-panel-color: #2a3439;
-$white-color: #fff;
-```
-
-Default Styling:
-
-```scss
-$default-text-shadow: 1px 1px #000;
-$default-transition: all 0.2s ease-in-out;
-$default-box-shadow: 1px 1px 1px rgba(0,0,0,0.4);
-```
-
-##### BEM:
-
-BEM Stands for block element modifier, and is a way of writing CSS/SASS code in order to organise the 
-code into a much more readable format. Head to the credits to read more about BEM style. -->
 
 
 ##### Background:
