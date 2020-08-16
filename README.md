@@ -94,7 +94,7 @@ I chose to use only two kinds of icons: footer icons that serve as links to Nigh
 media pages, and a hamburger icon that serves as a drop-down navbar menu on mobile devices and tablets. All icons used 
 are widely recognizable for their use.
 
-##### Colours:
+##### Colors:
 
 As mentioned just under the Design Choices header, the 
 <a href='https://coolors.co/10002b-240046-3c096c-5a189a-7b2cbf-9d4edd-c77dff-e0aaff'>color palette</a> I used was from 
@@ -119,11 +119,11 @@ and still looks clean.
 
 ##### Styling: 
 
-Thanks to SASS/SCSS I was easily able to set variables in my stylesheets that ask as the house 
+<!-- Thanks to SASS/SCSS I was easily able to set variables in my stylesheets that ask as the house 
 style - this means that the styles can be used in multiple places without having to repeat code. Using SASS also allowed me to better 
 structure my stylesheets, splitting them off into partial files for example, splitting the css into ‘component’ files, i.e map, buttons, 
 headers (see assets/scss for all partial files). Using BEM allowed me to easily nest my SASS code and also making my HTML code much more 
-readable.
+readable. -->
 
 
 ##### Background:
@@ -309,7 +309,11 @@ Cloning Night Vale Community Radio from GitHub:
 * Copy the provided URL.
 * Start up the terminal of your choice with the IDE of your choice.
 * Navigate to the file location of your choice.
-* To clone, copy this code and input it into your terminal: https://github.com/mcalistm/NightValeCommunityRadio.git
+* To clone, copy this code and input it into your terminal: 
+
+```
+https://github.com/mcalistm/NightValeCommunityRadio.git
+```
 
 ## Closing Notes:
 
