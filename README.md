@@ -114,6 +114,8 @@ it as the section above the weather section, and that was the next color for the
 * .btn-color and .link-color: #E0AAFF **"Mauve"** This color was perfect for the site's buttons, links and text as 
 it was light enough to be clearly legible over even the lightest section color, and it really pops off of the dark navbar, footer, 
 and contact section.
+* .link-color:hover: #FFFFF **"White"** When link text is hovered over, it goes white. This color was chosen because it is easy to read,
+and still looks clean.
 
 ##### Styling: 
 
