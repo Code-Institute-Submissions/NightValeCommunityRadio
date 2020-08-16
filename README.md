@@ -261,19 +261,19 @@ so I decided to leave it be.
 Over the process of creating this site, I ran into a few bugs, but thankfully between Simen, Slack, and the tutors, 
 I sorted these out! Here are a few examples:
 
-Jumbotron text overflow:
+**Jumbotron text overflow:**
 * Bug: The text over the jumbotron wasn't behaving like I wanted it to. It wasn't responsive enough to small screens.
 * Fix: Creating media queries!
 * Verdict: Simen reminded me of this - I didn't end up using it in the spot he originally suggested because it felt like 
 I had less control than I wanted in that area, but it was perfect for this bug.
 
-Footer icon alignment: 
+**Footer icon alignment:** 
 * Bug: I was struggling to align the icons in the footer in a way that was aesthetically pleasing.
 * Fix: Using flex rules in the css #footer id.
 * Verdict: Simen had me take some time playing with <a href='boxfroggy.com'>Flexbox Froggy</a>, which is what gave me 
 the tools to fix this!
 
-Navbar hamburger size:
+**Navbar hamburger size:**
 * Bug: In small screens, the navbar dropdown hamburger icon was inconveniently small.
 * Fix: Overrode .container in style.css by applying font-size: 2vw;
 * Verdict: I found this fix on the internet, thanks 
