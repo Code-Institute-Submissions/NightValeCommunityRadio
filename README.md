@@ -1,6 +1,6 @@
 # Night Vale Community Radio Website
 
-!-- insert multi-device screenshot here --! put in wireframes too
+![Multi-Device Screenshot](./wireframes/multideviceNVCR.jpg "Mutli-Device Screenshot")
 
 Thank you for taking the time to come visit my project! I welcome any comments, questions, and suggestions, and can be reached with my GitHub contact details.
 
