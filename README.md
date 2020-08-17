@@ -73,17 +73,17 @@ The goal of this project is to help users access community information and commu
 * Navbar condenses to drop down menu in mobile/tablet view.
 * Website is appealing and provides accurate information.
 
-## Design Choices: 🎨
+## Design Choices: 
 
 The color palette for this site is inspired by the color palette for the Welcome To Night Vale podcast logo and 
-<a href='http://www.welcometonightvale.com/'>official website</a>, which relies heavily on different shades of purple. 
-I used <a href='https://coolors.co/10002b-240046-3c096c-5a189a-7b2cbf-9d4edd-c77dff-e0aaff'>this palette</a> from 
-<a href='https://coolors.co/'>Coolors</a>.
+[official website](http://www.welcometonightvale.com/), which relies heavily on different shades of purple. 
+I used [this palette](https://coolors.co/10002b-240046-3c096c-5a189a-7b2cbf-9d4edd-c77dff-e0aaff)from 
+[Coolors](https://coolors.co/).
 
 ##### Fonts:
 
-The two fonts I used for this site are <a href='https://fonts.google.com/specimen/Oswald?query=oswald'>Oswald</a> 
-and <a href='https://fonts.google.com/specimen/Raleway?query=raleway'>Raleway</a>. I chose these two because they 
+The two fonts I used for this site are [Oswald](https://fonts.google.com/specimen/Oswald?query=oswald) 
+and [Raleway](https://fonts.google.com/specimen/Raleway?query=raleway). I chose these two because they 
 work smoothly together, and have a simplistic, sans-serif style similar to that of the podcast's official site. 
 In addition to this, I chose the sans-serif style because it allowed the information to take the forefront rather
 than the focus being on the text itself.
@@ -97,8 +97,8 @@ are widely recognizable for their use.
 ##### Colors:
 
 As mentioned just under the Design Choices header, the 
-<a href='https://coolors.co/10002b-240046-3c096c-5a189a-7b2cbf-9d4edd-c77dff-e0aaff'>color palette</a> I used was from 
-<a href='coolors.co'>Coolors.co</a>. I attributed different colors to different sections in a gradient pattern, and named 
+[color palette](https://coolors.co/10002b-240046-3c096c-5a189a-7b2cbf-9d4edd-c77dff-e0aaff) I used was from 
+[Coolors.co](coolors.co). I attributed different colors to different sections in a gradient pattern, and named 
 them after the sections or functions they were predominantely used for in the site.
 
 ![NVCR Color Palette](./wireframes/paletteNVCR.png "NVCR Color Palette")
@@ -131,14 +131,13 @@ readable. -->
 
 ##### Background:
 
-The <a href='../images/hero.jpg'>hero image</a> was selected because it was available for use without broaching usage rights, 
+The [hero image](../images/hero.jpg) was selected because it was available for use without broaching usage rights, 
 and depicted a scene from a desert town like Night Vale. I went for an old-school ghost town image because an aspect of the 
 show is that nobody really knows when Night Vale exists, and it is often hinted that the citizens there are very, very old.
 
 ### Wireframes 
 
-I used <a href="https://balsamiq.com/">Balsamiq</a> to build this project’s wireframe. You can view them 
-<a href="wireframes/wireframeNCVR.pdf">here.</a>
+I used [Balsamiq](https://balsamiq.com/) to build this project’s wireframe. You can view them [here](wireframes/wireframeNCVR.pdf).
 
 ## Features
 
@@ -152,16 +151,16 @@ I used <a href="https://balsamiq.com/">Balsamiq</a> to build this project’s wi
 ## Technologies Used: 👨‍💻
 
 ### Languages:
-* <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">HTML</a>
-* <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">CSS</a>
+* [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
+* [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
 
 ### Tools & Libraries:
-* <a href="https://getbootstrap.com/">Bootstrap</a>
-* <a href="https://fontawesome.com/icons?d=gallery">Font-Awesome</a>
-* <a href="https://git-scm.com/">Git</a>
-* <a href="https://fonts.google.com/">Google Fonts</a>
-* <a href="https://jquery.com/">jQuery</a>
-* <a href='https://www.javascript.com/'>JS</a></a>
+* [Bootstrap](https://getbootstrap.com)
+* [Font-Awesome](https://fontawesome.com/icons?d=gallery)
+* [Git](https://git-scm.com/)
+* [Google Fonts](https://fonts.google.com/)
+* [jQuery](https://jquery.com/)
+* [JS](https://www.javascript.com/)
 
 ## Testing:
 
@@ -275,18 +274,18 @@ I had less control than I wanted in that area, but it was perfect for this bug.
 **Footer icon alignment:** 
 * Bug: I was struggling to align the icons in the footer in a way that was aesthetically pleasing.
 * Fix: Using flex rules in the css #footer id.
-* Verdict: Simen had me take some time playing with <a href='boxfroggy.com'>Flexbox Froggy</a>, which is what gave me 
+* Verdict: Simen had me take some time playing with [Flexbox Froggy](boxfroggy.com), which is what gave me 
 the tools to fix this!
 
 **Navbar hamburger size:**
 * Bug: In small screens, the navbar dropdown hamburger icon was inconveniently small.
 * Fix: Overrode .container in style.css by applying font-size: 2vw;
-* Verdict: I found this fix on the internet, thanks 
-<a href='https://generatepress.com/forums/topic/change-hamburguer-menu-icon-size/'>David</a>!
+* Verdict: Fixed with course tools!
 
 #### Known Bugs: 
 
-Sometimes, when in dev tools the site works smoothly. Other times, the screen doesn't automatically fit, and there is a horizontal scroll.
+Sometimes, when in dev tools the site works smoothly. Other times, the screen doesn't automatically fit, 
+and there is a horizontal scroll.
 
 ## Deployment:
 
@@ -329,10 +328,10 @@ has been incredibly fun and rewarding, while also being one of the more challeng
 undertakings I've committed to in quite a while. I'm so, so glad I did it.
 
 ## Credits: 
-* <a href="http://www.welcometonightvale.com">Welcome to Night Vale</a>
-* <a href="https://github.com/Eventyret">Simen Daehlin</a>
+* [Welcome to Night Vale](http://www.welcometonightvale.com)
+* [Simen Daehlin](https://github.com/Eventyret)
 * Code Institute Slack Community
 * Code Institute Tutors
-* <a href='https://github.com/Geomint'>George Pyott</a>'s 
-<a href='https://github.com/Geomint/holiday-destinations/blob/master/README.md'>Holiday Destinations README.md file</a>, 
+* [George Pyott](https://github.com/Geomint)'s Holiday Destinations
+[README.md file](https://github.com/Geomint/holiday-destinations/blob/master/README.md),
 shown to me by Simen.
