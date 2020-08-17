@@ -182,23 +182,30 @@ body {
 
 /*Media Queries*/
 
-@media (min-width: 577px) {
+@media only screen (min-width: 577px) {
     .padding-video {
         padding-left: 5rem;
         padding-right: 5rem;
     }
 }
 
-@media (max-width: 576px) {
+@media only screen (max-width: 576px) {
     .padding-video {
         padding-left: 0rem;
         padding-right: 0rem;
     }
 }
 
-@media (min-width: 576px) {
-  .jumbotron-text {
+@media only screen (min-width: 576px) and (max-width: 767.98px) {
+    .jumbotron-text {
     font-size: 10rem;
     padding-top: 25rem;
+    }
+}
+
+@media only screen (min-width: 768px) and (max-width: 1024px) {
+    .jumbotron-text {
+    font-size: 10rem;
+    padding-top: 40rem;
     }
 }
