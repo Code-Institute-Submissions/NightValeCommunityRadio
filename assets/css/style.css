@@ -125,6 +125,11 @@ body {
     font-size: 2rem;
 }
 
+.padding-video {
+    padding-left: 0rem;
+    padding-right: 0rem;
+}
+
 /*Forms and Buttons*/
 
 .btn-padding {
@@ -186,13 +191,6 @@ body {
     .padding-video {
         padding-left: 5rem;
         padding-right: 5rem;
-    }
-}
-
-@media only screen (max-width: 576px) {
-    .padding-video {
-        padding-left: 0rem;
-        padding-right: 0rem;
     }
 }
 
