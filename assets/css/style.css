@@ -42,6 +42,10 @@ body {
     font-size: 2vw;
 }
 
+.nav-link {
+    font-size: 2rem;
+}
+
 .nav-text {
     font-size: 2vw;
 }
