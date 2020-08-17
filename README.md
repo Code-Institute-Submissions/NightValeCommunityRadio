@@ -5,28 +5,41 @@
 Thank you for taking the time to come visit my project! I welcome any comments, questions, and suggestions, and can be reached with my GitHub contact details.
 
 ## Contents:
-
-* UX 
-    * Project Goals
-    * Target Audience Goals
-    * Site Owner Goals
-    * User Requirements and Expectations
-    * Design Choices 
-        * Fonts
-        * Icons
-        * Colours
-        * Styling
-        * Images
-        * Backgrounds
-* Wireframes 
-* Features 
-    * Features that have been developed
-    * Features that will be implemented in the future
-* Technologies Used
-* Testing 
-* Bugs 
-* Deployment 
-* Credits 
+  * [UX (User Experience):](#ux--user-experience-)
+    + [Project Goals:](#project-goals)
+      - [User Goals:](#user-goals-)
+      - [User Stories:](#user-stories-)
+        * [As a user I expect to be able to check the weather before leaving my house.](#as-a-user-i-expect-to-be-able-to-check-the-weather-before-leaving-my-house)
+        * [As a user I expect to know what the upcoming events in my community are.](#as-a-user-i-expect-to-know-what-the-upcoming-events-in-my-community-are)
+        * [As a user I expect to be able to be able to express interest in interning at the radio station.](#as-a-user-i-expect-to-be-able-to-be-able-to-express-interest-in-interning-at-the-radio-station)
+        * [As a user I expect to be able to add my event to the community calendar.](#as-a-user-i-expect-to-be-able-to-add-my-event-to-the-community-calendar)
+      - [Site Owner Goals:](#site-owner-goals-)
+  * [User Requirements and Expectations:](#user-requirements-and-expectations-)
+    + [Requirements](#requirements-)
+    + [Expectations](#expectations-)
+  * [Design Choices:](#design-choices-)
+    + [Fonts](#fonts-)
+    + [Icons](#icons-)
+    + [Colors](#colors-)
+    + [Styling](#styling-)
+    + [Background](#background-)
+    + [Wireframes](#wireframes)
+  * [Features](#features)
+  * [Technologies Used: 👨‍💻](#technologies-used-------)
+    + [Languages](#languages-)
+    + [Tools & Libraries](#tools---libraries-)
+  * [Testing:](#testing-)
+    + [Test Planning](#test-planning-)
+    + [Testing Stories](#testing-stories-)
+    + [Overall](#overall-)
+    + [Features](#features-)
+  * [Bugs:](#bugs-)
+    + [Bugs During Development](#bugs-during-development-)
+    + [Known Bugs](#known-bugs-)
+  * [Deployment:](#deployment-)
+    + [Running Night Vale Community Radio Locally](#running-night-vale-community-radio-locally-)
+  * [Closing Notes](#closing-notes-)
+  * [Credits](#credits-)
 
 Night Vale Community Radio is the radio station for the fictional desert town of Night Vale, created by Joseph Fink and Jeffrey Cranor in their podcast _Welcome to Night Vale_. The station is staffed by host Cecil Baldwin and a variety of interns, all of whom meet strange ends. While there are parts of Night Vale that seem mundane, it quickly becomes apparent that the town is comedically strange and dark - the daily weather is a song, the dog park is to be avoided at all costs, and the Sheriff's Secret Police will leave a carnation on your front porch when it is safe to come outside. 
 
