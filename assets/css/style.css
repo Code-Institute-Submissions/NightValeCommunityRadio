@@ -112,20 +112,6 @@ body {
     padding-bottom: 5rem;
 }
 
-@media (min-width: 577px) {
-    .padding-video {
-        padding-left: 5rem;
-        padding-right: 5rem;
-    }
-}
-
-@media (max-width: 576px) {
-    .padding-video {
-        padding-left: 0rem;
-        padding-right: 0rem;
-    }
-}
-
 .text-xl {
     font-size: 8rem;
 }
@@ -195,4 +181,20 @@ body {
     padding-left: 0rem;
     padding-right: 0rem;
     width: 100%;
+}
+
+/*Media Queries*/
+
+@media (min-width: 577px) {
+    .padding-video {
+        padding-left: 5rem;
+        padding-right: 5rem;
+    }
+}
+
+@media (max-width: 576px) {
+    .padding-video {
+        padding-left: 0rem;
+        padding-right: 0rem;
+    }
 }
