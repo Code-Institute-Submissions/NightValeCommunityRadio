@@ -135,12 +135,7 @@ This color was chosen because it is easy to read, indicates to the user what the
 
 ##### Styling: 
 
-<!-- Thanks to SASS/SCSS I was easily able to set variables in my stylesheets that ask as the house 
-style - this means that the styles can be used in multiple places without having to repeat code. Using SASS also allowed me to better 
-structure my stylesheets, splitting them off into partial files for example, splitting the css into ‘component’ files, i.e map, buttons, 
-headers (see assets/scss for all partial files). Using BEM allowed me to easily nest my SASS code and also making my HTML code much more 
-readable. -->
-
+Using CSS, I played around with HTML and Bootstrap to style the elements on this website.
 
 ##### Background:
 
