@@ -60,26 +60,12 @@ body {
     margin-bottom: 0%;
 }
 
-@media (min-width: 577px) {
-  .jumbotron-text {
-    font-family: "Oswald", sans-serif;
-    font-size: 10rem;
-    text-align: center;
-    color: #5a189a;
-    padding-top: 25rem;
-    text-shadow: -2px 0 #E0AAFF, 0 2px #E0AAFF, 2px 0 #E0AAFF, 0 -2px #E0AAFF;
-  }
-}
-
-@media (max-width: 576px) {
-  .jumbotron-text {
-    font-family: "Oswald", sans-serif;
+.jumbotron-text {
     font-size: 8rem;
     text-align: center;
     color: #5a189a;
     padding-top: 20rem;
     text-shadow: -1px 0 #E0AAFF, 0 1px #E0AAFF, 1px 0 #E0AAFF, 0 -1px #E0AAFF;
-  }
 }
 
 /*Sections*/
@@ -196,5 +182,12 @@ body {
     .padding-video {
         padding-left: 0rem;
         padding-right: 0rem;
+    }
+}
+
+@media (min-width: 576px) {
+  .jumbotron-text {
+    font-size: 10rem;
+    padding-top: 25rem;
     }
 }
