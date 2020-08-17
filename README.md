@@ -103,12 +103,13 @@ them after the sections or functions they were predominantely used for in the si
 
 ![NVCR Color Palette](./wireframes/paletteNVCR.png "NVCR Color Palette")
 
-* .contact-color: #240046 **“Russian Violet”** I decided to use this color as the color for the contact section, 
-the navbar and the footer largely because it would make the navbar text really pop out, and because the I planned to have the 
-contact section be at the bottom of the site. It being at the bottom of the site played out well for the plan to have the main 
-section colors work in a gradient.
+* .contact-color: #240046 **“Russian Violet”** I decided to use this color as the color for the contact section 
+because the I planned to have the contact section be at the bottom of the site. It being at the bottom of the site 
+played out well for the plan to have the main section colors work in a gradient.
 * .apply-color: #3c096c **“Persian Indigo”** I decided to use this color for the apply section because I planned it 
-as the section above the contact section, and that was the next color for the gradient.
+as the section above the contact section, and that was the next color for the gradient. I planned it as the navbar because I 
+thought it worked well with the link text color, and for the footer because I didn't want it to blend in with the last
+section color.
 * .weather-color: #7b2cbf **“French Violet”** I decided to use this color for the weather section because I planned 
 it as the section above the about section, and that was the next color for the gradient.
 * .calendar-color: #9d4edd **"Dark Orchid"** I decided to use this color for the calendar section because I planned 
