@@ -155,6 +155,10 @@ body {
     background-color: #E0AAFF;
 }
 
+.btn-color:hover {
+    background-color: #FFF;
+}
+
 .link-color {
     color: #E0AAFF;
 }
