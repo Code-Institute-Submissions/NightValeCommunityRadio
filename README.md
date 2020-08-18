@@ -152,8 +152,9 @@ I used [Balsamiq](https://balsamiq.com/) to build this project’s wireframe. Yo
 ## Technologies Used: 👨‍💻
 
 ### Languages:
-* [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
 * [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
+* [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
+* [JS](https://www.javascript.com/)
 
 ### Tools & Libraries:
 * [Bootstrap](https://getbootstrap.com)
@@ -161,7 +162,6 @@ I used [Balsamiq](https://balsamiq.com/) to build this project’s wireframe. Yo
 * [Git](https://git-scm.com/)
 * [Google Fonts](https://fonts.google.com/)
 * [jQuery](https://jquery.com/)
-* [JS](https://www.javascript.com/)
 
 ## Testing:
 
