@@ -22,8 +22,8 @@ body {
 }
 
 .container-fluid{
-    padding-left: 0rem;
-    padding-right: 0rem;
+    padding-left: 0;
+    padding-right: 0;
     overflow: hidden;
 }
 
@@ -60,7 +60,7 @@ body {
 /*Home*/
 
 .main {
-    margin-top: 0px;
+    margin-top: 0;
 }
 
 .jumbotron {
@@ -68,7 +68,7 @@ body {
     background: url("../images/hero.jpg") no-repeat center center fixed;
     height: 100vh;
     background-size: cover;
-    margin-bottom: 0%;
+    margin-bottom: 0;
 }
 
 .jumbotron-text {
@@ -180,8 +180,8 @@ body {
     align-content: space-around;
     background-color: #3c096c;
     height: 3.5rem;
-    padding-left: 0rem;
-    padding-right: 0rem;
+    padding-left: 0;
+    padding-right: 0;
     width: 100%;
 }
 
