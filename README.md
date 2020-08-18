@@ -308,8 +308,8 @@ The following steps were followed to deploy Night Vale Community Radio through G
 #### Running Night Vale Community Radio Locally: 
 
 Cloning Night Vale Community Radio from GitHub:
-* Navigate your screen to '/mcalistm/NightValeCommunityRadio'.
-* Click on the green 'Copy' button.
+* Navigate your screen to **/mcalistm/NightValeCommunityRadio**.
+* Click on the green **Copy** button.
 * Copy the provided URL.
 * Start up the terminal of your choice with the IDE of your choice.
 * Navigate to the file location of your choice.
