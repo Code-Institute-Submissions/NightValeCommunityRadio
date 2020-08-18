@@ -55,10 +55,10 @@ The goal of this project is to help users access community information and commu
 
 #### User Stories:
 
-##### As a user I expect to be able to check the weather before leaving my house.
-##### As a user I expect to know what the upcoming events in my community are.
-##### As a user I expect to be able to be able to express interest in interning at the radio station.
-##### As a user I expect to be able to add my event to the community calendar.
+* As a user I expect to be able to check the weather before leaving my house.
+* As a user I expect to know what the upcoming events in my community are.
+* As a user I expect to be able to be able to express interest in interning at the radio station.
+* As a user I expect to be able to add my event to the community calendar.
 
 #### Site Owner Goals:
 * Provide information to the community about upcoming events.
