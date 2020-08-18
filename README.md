@@ -130,10 +130,6 @@ and contact section.
 * .btn-color:hover and .link-color:hover: #FFF **"White"** When link text or a button is hovered over, it goes white. 
 This color was chosen because it is easy to read, indicates to the user what they are about to select, and still looks clean.
 
-##### Styling: 
-
-Using CSS, I played around with HTML and Bootstrap to style the elements on this website.
-
 ##### Background:
 
 The [hero image](../images/hero.jpg) was selected because it was available for use without broaching usage rights, 
