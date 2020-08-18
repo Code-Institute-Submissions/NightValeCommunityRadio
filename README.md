@@ -1,8 +1,9 @@
 # Night Vale Community Radio Website
 
-![Multi-Device Screenshot](./wireframes/multideviceNVCR.jpg "Mutli-Device Screenshot")
+![Multi-Device Screenshot](./wireframes/multideviceNVCR.JPG "Mutli-Device Screenshot")
 
-Thank you for taking the time to come visit my project! I welcome any comments, questions, and suggestions, and can be reached with my GitHub contact details.
+Thank you for taking the time to come visit my project! I welcome any comments, questions, 
+and suggestions, and can be reached with my GitHub contact details.
 
 ## Contents:
   * [UX (User Experience):](#ux--user-experience-)
