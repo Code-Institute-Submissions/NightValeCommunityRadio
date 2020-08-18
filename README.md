@@ -158,6 +158,7 @@ I used [Balsamiq](https://balsamiq.com/) to build this project’s wireframe. Yo
 
 ### Tools & Libraries:
 * [Bootstrap](https://getbootstrap.com)
+* [Favicon](https://favicon.io/)
 * [Font-Awesome](https://fontawesome.com/icons?d=gallery)
 * [Git](https://git-scm.com/)
 * [Google Fonts](https://fonts.google.com/)
