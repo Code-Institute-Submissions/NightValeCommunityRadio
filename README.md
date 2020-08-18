@@ -154,7 +154,7 @@ I used [Balsamiq](https://balsamiq.com/) to build this project’s wireframe. Yo
 ### Languages:
 * [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
 * [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
-* [JS](https://www.javascript.com/)
+* [JS](https://www.popper.JS.org/)
 
 ### Tools & Libraries:
 * [Bootstrap](https://getbootstrap.com)
