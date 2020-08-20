@@ -184,7 +184,7 @@ the user scrolled past to the next one) would require JS. So, I removed the caro
 * My original plan for the apply section was to have a file upload button. However, again it seemed like JS would be the best
 way to get it to sit on the page the way I needed it to. Again, I removed it and replaced it with a form check.
 
-* I quickly became well aquainted with "target=_blank" for the links I created! 
+* I quickly became well aquainted with `target=_blank` for the links I created! 
 
 * Figuring out the jumbotron took a bit longer than I had anticipated. I was confused as to why, even though I had been using
 rem units, the text size wasn't responding well. In the end, media queries were what saved the day!
