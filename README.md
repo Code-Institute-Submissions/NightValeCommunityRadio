@@ -5,40 +5,39 @@
 Thank you for taking the time to come visit my project! I welcome any comments, questions, 
 and suggestions, and can be reached with my GitHub contact details.
 
-## Contents:
+## Contents
 - [Night Vale Community Radio Website](#night-vale-community-radio-website)
-  * [Contents:](#contents-)
-  * [UX (User Experience)](#ux--user-experience-)
+  * [Contents](#contents)
+  * [UX User Experience](#ux-user-experience)
     + [Project Goals](#project-goals)
-      - [User Goals:](#user-goals-)
+      - [User Goals](#user-goals)
       - [User Stories:](#user-stories-)
-      - [Site Owner Goals:](#site-owner-goals-)
-  * [User Requirements and Expectations:](#user-requirements-and-expectations-)
-        * [Requirements:](#requirements-)
-        * [Expectations:](#expectations-)
-  * [Design Choices:](#design-choices-)
-        * [Fonts:](#fonts-)
-        * [Icons:](#icons-)
-        * [Colors:](#colors-)
-        * [Background:](#background-)
+      - [Site Owner Goals](#site-owner-goals)
+  * [User Requirements and Expectations](#user-requirements-and-expectations)
+        * [Requirements](#requirements)
+        * [Expectations](#expectations)
+  * [Design Choices](#design-choices)
+    + [Fonts](#fonts)
+    + [Icons](#icons)
+    + [Colors](#colors)
+    + [Background](#background)
     + [Wireframes](#wireframes)
   * [Features](#features)
-  * [Technologies Used:](#technologies-used)
-    + [Languages:](#languages-)
-    + [Tools & Libraries:](#tools---libraries-)
-  * [Testing:](#testing-)
-        * [Test Planning:](#test-planning-)
-        * [Testing Stories:](#testing-stories-)
-    + [Overall:](#overall-)
-    + [Features:](#features-)
-  * [Bugs:](#bugs-)
-      - [Bugs During Development:](#bugs-during-development-)
-      - [Known Bugs:](#known-bugs-)
-  * [Deployment:](#deployment-)
-      - [Running Night Vale Community Radio Locally:](#running-night-vale-community-radio-locally-)
-  * [Closing Notes:](#closing-notes-)
-  * [Credits:](#credits-)
-
+  * [Technologies Used](#technologies-used)
+    + [Languages](#languages)
+    + [Tools & Libraries](#tools---libraries)
+  * [Testing](#testing)
+        * [Test Planning](#test-planning)
+        * [Testing Stories](#testing-stories)
+    + [Overall](#overall)
+    + [Features](#features-1)
+  * [Bugs](#bugs)
+      - [Bugs During Development](#bugs-during-development)
+      - [Known Bugs](#known-bugs)
+  * [Deployment](#deployment)
+      - [Running Night Vale Community Radio Locally](#running-night-vale-community-radio-locally)
+  * [Closing Notes](#closing-notes)
+  * [Credits](#credits)
 
 Night Vale Community Radio is the radio station for the fictional desert town of Night Vale, created by Joseph Fink and Jeffrey Cranor in their podcast _Welcome to Night Vale_. The station is staffed by host Cecil Baldwin and a variety of interns, all of whom meet strange ends. While there are parts of Night Vale that seem mundane, it quickly becomes apparent that the town is comedically strange and dark - the daily weather is a song, the dog park is to be avoided at all costs, and the Sheriff's Secret Police will leave a carnation on your front porch when it is safe to come outside. 
 
@@ -85,7 +84,7 @@ The goal of this project is to help users access community information and commu
 * Navbar condenses to drop down menu in mobile/tablet view.
 * Website is appealing and provides accurate information.
 
-## Design Choices:
+## Design Choices
 
 The color palette for this site is inspired by the color palette for the Welcome To Night Vale podcast logo and 
 [official website](http://www.welcometonightvale.com/), which relies heavily on different shades of purple. 
@@ -156,7 +155,7 @@ I used [Balsamiq](https://balsamiq.com/) to build this project’s wireframe. Yo
 * [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
 * [JS](https://www.popper.JS.org/)
 
-### Tools & Libraries
+### Tools and Libraries
 * [Bootstrap](https://getbootstrap.com)
 * [Favicon](https://favicon.io/)
 * [Font-Awesome](https://fontawesome.com/icons?d=gallery)
