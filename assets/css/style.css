@@ -101,14 +101,6 @@ body {
     text-align: center;
 }
 
-.padding-top {
-    padding-top: 2rem;
-}
-
-.padding-btm {
-    padding-bottom: 5rem;
-}
-
 .text-xl {
     font-size: 5rem;
 }
@@ -123,18 +115,6 @@ body {
 
 .text-sm {
     font-size: 2rem;
-}
-
-.padding-video {
-    padding-left: 0;
-    padding-right: 0;
-}
-
-/*Forms and Buttons*/
-
-.btn-padding {
-    padding-top: 2rem;
-    padding-bottom: 5rem;
 }
 
 /*Colors*/
