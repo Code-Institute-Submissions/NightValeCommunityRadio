@@ -192,7 +192,7 @@ rem units, the text size wasn't responding well. In the end, media queries were 
 
 ### Overall:
 
-**Responsiveness - **
+**Responsiveness**
 * **Plan**: Following the principle of mobile-first design, I knew that this had to be entirely responsive. 
 Given this, my level of education, and the guidelines of this project, this meant Bootstrap as a core framework, with 
 regular use of dev tools to run tests throughout and a post-peer-review test before submission.
