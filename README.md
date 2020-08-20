@@ -6,47 +6,49 @@ Thank you for taking the time to come visit my project! I welcome any comments, 
 and suggestions, and can be reached with my GitHub contact details.
 
 ## Contents:
-  * [UX (User Experience):](#ux--user-experience-)
-    + [Project Goals:](#project-goals)
+- [Night Vale Community Radio Website](#night-vale-community-radio-website)
+  * [Contents:](#contents-)
+  * [UX (User Experience)](#ux--user-experience-)
+    + [Project Goals](#project-goals)
       - [User Goals:](#user-goals-)
       - [User Stories:](#user-stories-)
       - [Site Owner Goals:](#site-owner-goals-)
   * [User Requirements and Expectations:](#user-requirements-and-expectations-)
-    + [Requirements](#requirements-)
-    + [Expectations](#expectations-)
+        * [Requirements:](#requirements-)
+        * [Expectations:](#expectations-)
   * [Design Choices:](#design-choices-)
-    + [Fonts](#fonts-)
-    + [Icons](#icons-)
-    + [Colors](#colors-)
-    + [Styling](#styling-)
-    + [Background](#background-)
+        * [Fonts:](#fonts-)
+        * [Icons:](#icons-)
+        * [Colors:](#colors-)
+        * [Background:](#background-)
     + [Wireframes](#wireframes)
   * [Features](#features)
-  * [Technologies Used: 👨‍💻](#technologies-used-------)
-    + [Languages](#languages-)
-    + [Tools & Libraries](#tools---libraries-)
+  * [Technologies Used:](#technologies-used)
+    + [Languages:](#languages-)
+    + [Tools & Libraries:](#tools---libraries-)
   * [Testing:](#testing-)
-    + [Test Planning](#test-planning-)
-    + [Testing Stories](#testing-stories-)
-    + [Overall](#overall-)
-    + [Features](#features-)
+        * [Test Planning:](#test-planning-)
+        * [Testing Stories:](#testing-stories-)
+    + [Overall:](#overall-)
+    + [Features:](#features-)
   * [Bugs:](#bugs-)
-    + [Bugs During Development](#bugs-during-development-)
-    + [Known Bugs](#known-bugs-)
+      - [Bugs During Development:](#bugs-during-development-)
+      - [Known Bugs:](#known-bugs-)
   * [Deployment:](#deployment-)
-    + [Running Night Vale Community Radio Locally](#running-night-vale-community-radio-locally-)
-  * [Closing Notes](#closing-notes-)
-  * [Credits](#credits-)
+      - [Running Night Vale Community Radio Locally:](#running-night-vale-community-radio-locally-)
+  * [Closing Notes:](#closing-notes-)
+  * [Credits:](#credits-)
+
 
 Night Vale Community Radio is the radio station for the fictional desert town of Night Vale, created by Joseph Fink and Jeffrey Cranor in their podcast _Welcome to Night Vale_. The station is staffed by host Cecil Baldwin and a variety of interns, all of whom meet strange ends. While there are parts of Night Vale that seem mundane, it quickly becomes apparent that the town is comedically strange and dark - the daily weather is a song, the dog park is to be avoided at all costs, and the Sheriff's Secret Police will leave a carnation on your front porch when it is safe to come outside. 
 
 The purpose of this project is to provide the citizens of Night Vale with a website for their beloved NVCR. It will provide them with the monthly community calendar, the daily weather, the citizen of the month, and an opportunity to apply to intern at the radio station (applications are accepted on a rolling basis).
 
-## UX (User Experience)
+## UX User Experience
 ### Project Goals
 The goal of this project is to help users access community information and communicate with their radio station. It is aimed at citizens of Night Vale. The finished site should be clean and intuitive enough to be easily accessible, while also being appealing to the eye.
 
-#### User Goals:
+#### User Goals
 * A hub for community information that is easily accessible.
 * Easy communication with the radio station through a contact form.
 * Access to the day’s weather.
@@ -60,14 +62,14 @@ The goal of this project is to help users access community information and commu
 * As a user I expect to be able to be able to express interest in interning at the radio station.
 * As a user I expect to be able to add my event to the community calendar.
 
-#### Site Owner Goals:
+#### Site Owner Goals
 * Provide information to the community about upcoming events.
 * Gather application interest for internships.
 * Open pathways for communications from community.
 * Accurately display the weather, updated on a weekly basis.
 
-## User Requirements and Expectations:
-##### Requirements:
+## User Requirements and Expectations
+##### Requirements
 * Navigate the site using the navbar.
 * Be provided with community information.
 * Be able to apply for internships.
@@ -75,7 +77,7 @@ The goal of this project is to help users access community information and commu
 * Be able to contact the radio station.
 * Website is displayed appealingly.
 
-##### Expectations:
+##### Expectations
 * Can tap/click on navbar links to direct around the site.
 * Community calendar is up to date.
 * Weather forecast is up to date.
@@ -83,14 +85,12 @@ The goal of this project is to help users access community information and commu
 * Navbar condenses to drop down menu in mobile/tablet view.
 * Website is appealing and provides accurate information.
 
-## Design Choices: 
+## Design Choices:
 
 The color palette for this site is inspired by the color palette for the Welcome To Night Vale podcast logo and 
 [official website](http://www.welcometonightvale.com/), which relies heavily on different shades of purple. 
-I used [this palette](https://coolors.co/10002b-240046-3c096c-5a189a-7b2cbf-9d4edd-c77dff-e0aaff)from 
-[Coolors](https://coolors.co/).
 
-##### Fonts:
+##### Fonts
 
 The two fonts I used for this site are [Oswald](https://fonts.google.com/specimen/Oswald?query=oswald) 
 and [Raleway](https://fonts.google.com/specimen/Raleway?query=raleway). I chose these two because they 
@@ -98,13 +98,13 @@ work smoothly together, and have a simplistic, sans-serif style similar to that 
 In addition to this, I chose the sans-serif style because it allowed the information to take the forefront rather
 than the focus being on the text itself.
 
-##### Icons: 
+##### Icons
 
 I chose to use only two kinds of icons: footer icons that serve as links to Night Vale Community Radio's other social 
 media pages, and a hamburger icon that serves as a drop-down navbar menu on mobile devices and tablets. All icons used 
 are widely recognizable for their use.
 
-##### Colors:
+##### Colors
 
 As mentioned just under the Design Choices header, the 
 [color palette](https://coolors.co/10002b-240046-3c096c-5a189a-7b2cbf-9d4edd-c77dff-e0aaff) I used was from 
@@ -130,7 +130,7 @@ and contact section.
 * .btn-color:hover and .link-color:hover: #FFF **"White"** When link text or a button is hovered over, it goes white. 
 This color was chosen because it is easy to read, indicates to the user what they are about to select, and still looks clean.
 
-##### Background:
+##### Background
 
 The [hero image](../images/hero.jpg) was selected because it was available for use without broaching usage rights, 
 and depicted a scene from a desert town like Night Vale. I went for an old-school ghost town image because an aspect of the 
@@ -149,14 +149,14 @@ I used [Balsamiq](https://balsamiq.com/) to build this project’s wireframe. Yo
 * Link to instruct the user on how to add their event to the community calendar
 * Weather videos for the week
 
-## Technologies Used: 👨‍💻
+## Technologies Used
 
-### Languages:
+### Languages
 * [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
 * [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
 * [JS](https://www.popper.JS.org/)
 
-### Tools & Libraries:
+### Tools & Libraries
 * [Bootstrap](https://getbootstrap.com)
 * [Favicon](https://favicon.io/)
 * [Font-Awesome](https://fontawesome.com/icons?d=gallery)
@@ -164,18 +164,18 @@ I used [Balsamiq](https://balsamiq.com/) to build this project’s wireframe. Yo
 * [Google Fonts](https://fonts.google.com/)
 * [jQuery](https://jquery.com/)
 
-## Testing:
+## Testing
 
 Since this was my first website, I wanted to make sure that I was thurough in my testing. Thankfully, I was able
 to accomplish this with the help of the Slack community and my dedicated mentor. 
 
-##### Test Planning: 
+##### Test Planning
 
 Before creating this site, I made wireframes that allowed me to plan out my testing methods. Essentially, I decided
 that I would test as I went along, clearing interactive elements in particular before moving on. Of course, things
 don't always go to plan and there were a few times where I hopped around in order to not burn myself out one single points.
 
-##### Testing Stories:
+##### Testing Stories
 
 * Originally, I had wanted to use a carousel for the weather videos. After implementing and testing this, I realized that
 the only way I would be able to successfuly implement the carousel (so that videos would automatically stop when 
@@ -190,7 +190,7 @@ way to get it to sit on the page the way I needed it to. Again, I removed it and
 rem units, the text size wasn't responding well. In the end, media queries were what saved the day!
 
 
-### Overall:
+### Overall
 
 **Responsiveness**
 * **Plan**: Following the principle of mobile-first design, I knew that this had to be entirely responsive. 
@@ -203,7 +203,7 @@ fellow students about ctrl+shift+r.
 with no overflow or illegible information.
 * **Verdict**: The site is responsive! The test passes.
 
-**Design -**
+**Design**
 * **Plan**: I wanted the site to be inline with the podcast's official color scheme, which lead to the use of
 purples. Using the darkest shade in the header and footer allowed for a sense of bordering, while the lightest shade popped
 well against all of the other colors, making it the perfect choice for text and links.
@@ -211,85 +211,85 @@ well against all of the other colors, making it the perfect choice for text and 
 * **Result**: The color palette I chose to use works well.
 * **Verdict**: Because the color palette works well, this test passes!
 
-### Features:
+### Features
 
-**Navbar and Footer -**
+**Navbar and Footer**
 * **Plan**: In the planning phase, I decided that I wanted the navbar to be fixed and for the links to shrink 
 into a dropdown menu for mobile and tablet screens. I wanted the footer to only be visible when the user scrolls to the 
 bottom of the page, and for it to have links to other Night Vale sites (Instagram, Tripadvisor, etc.)
-* **Implementation** : I used Bootstrap to build these.
+* **Implementation**: I used Bootstrap to build these.
 * **Result**: The navbar and footer are both positioned where I want them and are fully responsive.
 * **Verdict**: Regarding these results, this test passes.
 
-**Community Calendar -**
+**Community Calendar**
 * **Plan**: I wanted this calendar to look something like a table, but was advised by Simen to not use an
 actual Bootstrap table, as those are not very workable re: responsivness. I planned to have the different rows be different
 colors in the reverse of the section color gradient rather than having borders, as I found this more aesthetically pleasing.
-* **Implementation** : I used Bootstrap to build these rows.
+* **Implementation**: I used Bootstrap to build these rows.
 * **Result**: The community calendar is responsive, clean and easily readable.
 * **Verdict**: Regarding these results, this test passes.
 
-**Application Form -**
+**Application Form**
 * **Plan**: Originally, I wrote this part to include a file upload form. However, toying around with it I 
 discovered that the only way to make it fit in the page the way that I wanted was to implement JS, which I am not
 educated in yet. So, I reworked it a bit to have the two links, three input fields, two form-checks, and a submit button.
-* **Implementation** : I used Bootstrap to implement the various form elements.
+* **Implementation**: I used Bootstrap to implement the various form elements.
 * **Result**: While the end result isn't what I had envisioned, it is clean, responsive, and understandable.
 * **Verdict**: Regarding these results, this test passes.
 
-**Communication Form -**
+**Communication Form**
 * **Plan**: What I planned for this section is exactly how it turned out! First name, last name, email, and
 text input boxes with a submit button.
 * **Implementation** : I used Bootstrap to implement the necessary form elements.
 * **Result**: The end result is exactly what I had envisioned! It is clean, responsive, and understandable.
 * **Verdict**: Regarding these results, this test passes.
 
-**Add Event Button -**
+**Add Event Button**
 * **Plan**: While in the planning phase, I wanted a button that would lead the user from the calendar down to 
 the contact section, because I figured that that would be a primary user need.
-* **Implementation** : I used Bootstrap to add in this button.
+* **Implementation**: I used Bootstrap to add in this button.
 * **Result**: The end result is responsive and clean.
 * **Verdict**: Regarding these results, this test passes.
 
-**Weather Videos -**
+**Weather Videos**
 * **Plan**: While in the planning phase, I wanted this to be a carousel of videos. However, I learned that
 in order to command the videos to stop playing once the user scrolled by, I would need to use JS, which is currently out of 
 my paygrade. So, I reworked the layout so all videos were on display. In mobile, they line up down the screen. While I wanted
 the lines of text to reorder between mobile and tablet+, I was informed by a tutor that this can only be completed with JS, 
 so I decided to leave it be.
-* **Implementation** : I used Bootstrap to make this new layout responsive and clean.
+* **Implementation**: I used Bootstrap to make this new layout responsive and clean.
 * **Result**: While the end result isn't what I had envisioned, it is clean, responsive, and understandable.
 * **Verdict**: Regarding these results, this test passes.
 
-## Bugs:
-#### Bugs During Development:
+## Bugs
+#### Bugs During Development
 
 Over the process of creating this site, I ran into a few bugs, but thankfully between Simen, Slack, and the tutors, 
 I sorted these out! Here are a few examples:
 
-**Jumbotron text overflow:**
+**Jumbotron text overflow**
 * Bug: The text over the jumbotron wasn't behaving like I wanted it to. It wasn't responsive enough to small screens.
 * Fix: Creating media queries!
 * Verdict: Simen reminded me of this - I didn't end up using it in the spot he originally suggested because it felt like 
 I had less control than I wanted in that area, but it was perfect for this bug.
 
-**Footer icon alignment:** 
+**Footer icon alignment** 
 * Bug: I was struggling to align the icons in the footer in a way that was aesthetically pleasing.
 * Fix: Using flex rules in the css #footer id.
 * Verdict: Simen had me take some time playing with [Flexbox Froggy](boxfroggy.com), which is what gave me 
 the tools to fix this!
 
-**Navbar hamburger size:**
+**Navbar hamburger size**
 * Bug: In small screens, the navbar dropdown hamburger icon was inconveniently small.
 * Fix: Overrode .container in style.css by applying font-size: 2vw;
 * Verdict: Fixed with course tools!
 
-#### Known Bugs: 
+#### Known Bugs
 
 Sometimes, when in dev tools the site works smoothly. Other times, the screen doesn't automatically fit, 
 and there is a horizontal scroll.
 
-## Deployment:
+## Deployment
 
 Night Vale Community Radio was developed in GitPod, hosted by GitHub and using git.
 
@@ -305,7 +305,7 @@ The following steps were followed to deploy Night Vale Community Radio through G
 * Confirmed my selection.
 * Night Vale Community Radio is now live on GitHub Pages.
 
-#### Running Night Vale Community Radio Locally: 
+#### Running Night Vale Community Radio Locally
 
 Cloning Night Vale Community Radio from GitHub:
 * Navigate your screen to **/mcalistm/NightValeCommunityRadio**.
@@ -319,7 +319,7 @@ Cloning Night Vale Community Radio from GitHub:
 https://github.com/mcalistm/NightValeCommunityRadio.git
 ```
 
-## Closing Notes:
+## Closing Notes
 
 This project has encouraged me to think about how I think in order to provide information in a clean, 
 concise and friendly way to users. It has also helped me get a better grasp on bootstrap, 
@@ -329,7 +329,7 @@ could easily be solved by javascript, so I am particularly excited to learn this
 has been incredibly fun and rewarding, while also being one of the more challenging 
 undertakings I've committed to in quite a while. I'm so, so glad I did it.
 
-## Credits: 
+## Credits
 * [Welcome to Night Vale](http://www.welcometonightvale.com)
 * [Simen Daehlin](https://github.com/Eventyret)
 * Code Institute Slack Community
